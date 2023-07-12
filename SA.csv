@@ -1,0 +1,2474 @@
+,SA2_NAME21,SA3_NAME21
+0,Braidwood,Queanbeyan
+1,Karabar,Queanbeyan
+2,Queanbeyan,Queanbeyan
+3,Queanbeyan - East,Queanbeyan
+4,Queanbeyan West - Jerrabomberra,Queanbeyan
+5,Googong,Queanbeyan
+6,Queanbeyan Surrounds,Queanbeyan
+7,Bombala,Snowy Mountains
+8,Cooma,Snowy Mountains
+9,Cooma Surrounds,Snowy Mountains
+10,Jindabyne - Berridale,Snowy Mountains
+11,Batemans Bay,South Coast
+12,Batemans Bay - South,South Coast
+13,Bega - Tathra,South Coast
+14,Bega-Eden Hinterland,South Coast
+15,Broulee - Tomakin,South Coast
+16,Deua - Wadbilliga,South Coast
+17,Eden,South Coast
+18,Eurobodalla Hinterland,South Coast
+19,Merimbula - Tura Beach,South Coast
+20,Moruya - Tuross Head,South Coast
+21,Narooma - Bermagui,South Coast
+22,Goulburn,Goulburn - Mulwaree
+23,Goulburn Surrounds,Goulburn - Mulwaree
+24,Yass,Young - Yass
+25,Yass Surrounds,Young - Yass
+26,Young,Young - Yass
+27,Young Surrounds,Young - Yass
+28,Avoca Beach - Copacabana,Gosford
+29,Box Head - MacMasters Beach,Gosford
+30,Calga - Kulnura,Gosford
+31,Erina - Green Point,Gosford
+32,Gosford - Springfield,Gosford
+33,Kariong,Gosford
+34,Kincumber - Picketts Valley,Gosford
+35,Narara,Gosford
+36,Niagara Park - Lisarow,Gosford
+37,Point Clare - Koolewong,Gosford
+38,Saratoga - Davistown,Gosford
+39,Terrigal - North Avoca,Gosford
+40,Umina - Booker Bay - Patonga,Gosford
+41,Wamberal - Forresters Beach,Gosford
+42,Woy Woy - Blackwall,Gosford
+43,Wyoming,Gosford
+44,Bateau Bay - Killarney Vale,Wyong
+45,Blue Haven - San Remo,Wyong
+46,Budgewoi - Buff Point - Halekulani,Wyong
+47,Chittaway Bay - Tumbi Umbi,Wyong
+48,Gorokan - Kanwal - Charmhaven,Wyong
+49,Jilliby - Yarramalong,Wyong
+50,Lake Munmorah - Mannering Park,Wyong
+51,Ourimbah - Fountaindale,Wyong
+52,Summerland Point - Gwandalan,Wyong
+53,The Entrance,Wyong
+54,Toukley - Norah Head,Wyong
+55,Tuggerah - Kangy Angy,Wyong
+56,Warnervale - Wadalba,Wyong
+57,Wyong,Wyong
+58,Bathurst - East,Bathurst
+59,Bathurst Surrounds,Bathurst
+60,Oberon,Bathurst
+61,Bathurst - South,Bathurst
+62,Bathurst - West,Bathurst
+63,Condobolin,Lachlan Valley
+64,Cowra,Lachlan Valley
+65,Cowra Surrounds,Lachlan Valley
+66,Forbes,Lachlan Valley
+67,Grenfell,Lachlan Valley
+68,Parkes (NSW),Lachlan Valley
+69,Parkes Surrounds,Lachlan Valley
+70,West Wyalong,Lachlan Valley
+71,Lithgow,Lithgow - Mudgee
+72,Lithgow Surrounds,Lithgow - Mudgee
+73,Mudgee,Lithgow - Mudgee
+74,Mudgee Surrounds - East,Lithgow - Mudgee
+75,Mudgee Surrounds - West,Lithgow - Mudgee
+76,Wollangambe - Wollemi,Lithgow - Mudgee
+77,Blayney,Orange
+78,Orange,Orange
+79,Orange - North,Orange
+80,Orange Surrounds,Orange
+81,Grafton,Clarence Valley
+82,Grafton Surrounds,Clarence Valley
+83,Maclean - Yamba - Iluka,Clarence Valley
+84,Bellingen,Coffs Harbour
+85,Coffs Harbour - North,Coffs Harbour
+86,Coffs Harbour - South,Coffs Harbour
+87,Coramba - Nana Glen - Bucca,Coffs Harbour
+88,Dorrigo,Coffs Harbour
+89,Korora - Emerald Beach,Coffs Harbour
+90,Sawtell - Boambee,Coffs Harbour
+91,Urunga,Coffs Harbour
+92,Woolgoolga - Arrawarra,Coffs Harbour
+93,Bourke - Brewarrina,Bourke - Cobar - Coonamble
+94,Cobar,Bourke - Cobar - Coonamble
+95,Coonamble,Bourke - Cobar - Coonamble
+96,Nyngan - Warren,Bourke - Cobar - Coonamble
+97,Walgett - Lightning Ridge,Bourke - Cobar - Coonamble
+98,Broken Hill,Broken Hill and Far West
+99,Far West,Broken Hill and Far West
+100,Coonabarabran,Dubbo
+101,Dubbo - East,Dubbo
+102,Dubbo - South,Dubbo
+103,Dubbo - West,Dubbo
+104,Dubbo Surrounds,Dubbo
+105,Gilgandra,Dubbo
+106,Narromine,Dubbo
+107,Wellington,Dubbo
+108,Branxton - Greta - Pokolbin,Lower Hunter
+109,Cessnock,Lower Hunter
+110,Cessnock Surrounds,Lower Hunter
+111,Dungog,Lower Hunter
+112,Kurri Kurri - Abermain,Lower Hunter
+113,Singleton,Lower Hunter
+114,Singleton Surrounds,Lower Hunter
+115,Maitland,Maitland
+116,Maitland - North,Maitland
+117,East Maitland - Metford,Maitland
+118,Rutherford (North) - Aberglasslyn,Maitland
+119,Rutherford (South) - Telarah,Maitland
+120,Tenambit - East Maitland,Maitland
+121,Thornton - Millers Forest,Maitland
+122,Anna Bay,Port Stephens
+123,Lemon Tree Passage - Tanilba Bay,Port Stephens
+124,Nelson Bay Peninsula,Port Stephens
+125,Raymond Terrace,Port Stephens
+126,Seaham - Woodville,Port Stephens
+127,Tea Gardens - Hawks Nest,Port Stephens
+128,Williamtown - Medowie - Karuah,Port Stephens
+129,Muswellbrook,Upper Hunter
+130,Muswellbrook Surrounds,Upper Hunter
+131,Scone,Upper Hunter
+132,Scone Surrounds,Upper Hunter
+133,Dapto - Avondale,Dapto - Port Kembla
+134,Horsley - Kembla Grange,Dapto - Port Kembla
+135,Port Kembla Industrial,Dapto - Port Kembla
+136,Unanderra - Mount Kembla,Dapto - Port Kembla
+137,Berkeley - Lake Heights - Cringila,Dapto - Port Kembla
+138,Port Kembla - Warrawong,Dapto - Port Kembla
+139,Windang - Primbee,Dapto - Port Kembla
+140,Illawarra Catchment Reserve,Illawarra Catchment Reserve
+141,Albion Park - Macquarie Pass,Kiama - Shellharbour
+142,Albion Park Rail,Kiama - Shellharbour
+143,Kiama,Kiama - Shellharbour
+144,Kiama Downs - Minnamurra,Kiama - Shellharbour
+145,Kiama Hinterland - Gerringong,Kiama - Shellharbour
+146,Shellharbour - Flinders,Kiama - Shellharbour
+147,Shellharbour - Oak Flats,Kiama - Shellharbour
+148,Warilla,Kiama - Shellharbour
+149,Balgownie - Fairy Meadow,Wollongong
+150,Corrimal - Tarrawanna - Bellambi,Wollongong
+151,Figtree - Keiraville,Wollongong
+152,Helensburgh,Wollongong
+153,Thirroul - Austinmer - Coalcliff,Wollongong
+154,Woonona - Bulli - Russell Vale,Wollongong
+155,Wollongong - East,Wollongong
+156,Wollongong - West,Wollongong
+157,Bulahdelah - Stroud,Great Lakes
+158,Forster,Great Lakes
+159,Forster-Tuncurry Surrounds,Great Lakes
+160,Tuncurry,Great Lakes
+161,Kempsey,Kempsey - Nambucca
+162,Kempsey Surrounds,Kempsey - Nambucca
+163,Macksville - Scotts Head,Kempsey - Nambucca
+164,Nambucca Heads,Kempsey - Nambucca
+165,Nambucca Heads Surrounds,Kempsey - Nambucca
+166,South West Rocks,Kempsey - Nambucca
+167,Lord Howe Island,Lord Howe Island
+168,Laurieton - Bonny Hills,Port Macquarie
+169,Port Macquarie - West,Port Macquarie
+170,Port Macquarie Surrounds,Port Macquarie
+171,Wauchope,Port Macquarie
+172,Port Macquarie - East,Port Macquarie
+173,Port Macquarie - South,Port Macquarie
+174,Gloucester,Taree - Gloucester
+175,Old Bar - Manning Point - Red Head,Taree - Gloucester
+176,Taree,Taree - Gloucester
+177,Taree Surrounds,Taree - Gloucester
+178,Wingham,Taree - Gloucester
+179,Albury - East,Albury
+180,Albury - North,Albury
+181,Albury - South,Albury
+182,Albury Surrounds,Albury
+183,Lavington,Albury
+184,Hay,Lower Murray
+185,Wentworth - Buronga,Lower Murray
+186,Wentworth-Balranald Region,Lower Murray
+187,Corowa,Upper Murray exc. Albury
+188,Corowa Surrounds,Upper Murray exc. Albury
+189,Deniliquin,Upper Murray exc. Albury
+190,Deniliquin Surrounds,Upper Murray exc. Albury
+191,Moama,Upper Murray exc. Albury
+192,Tocumwal - Finley - Jerilderie,Upper Murray exc. Albury
+193,Armidale,Armidale
+194,Armidale Surrounds - North,Armidale
+195,Armidale Surrounds - South,Armidale
+196,Walcha,Armidale
+197,Glen Innes,Inverell - Tenterfield
+198,Inverell,Inverell - Tenterfield
+199,Inverell Surrounds - East,Inverell - Tenterfield
+200,Inverell Surrounds - West,Inverell - Tenterfield
+201,Tenterfield,Inverell - Tenterfield
+202,Moree,Moree - Narrabri
+203,Moree Surrounds,Moree - Narrabri
+204,Narrabri,Moree - Narrabri
+205,Narrabri Surrounds,Moree - Narrabri
+206,Gunnedah,Tamworth - Gunnedah
+207,Gunnedah Surrounds,Tamworth - Gunnedah
+208,Quirindi,Tamworth - Gunnedah
+209,Tamworth - East,Tamworth - Gunnedah
+210,Tamworth - North,Tamworth - Gunnedah
+211,Tamworth - West,Tamworth - Gunnedah
+212,Tamworth Surrounds,Tamworth - Gunnedah
+213,Belmont - Bennetts Green,Lake Macquarie - East
+214,Belmont South - Blacksmiths,Lake Macquarie - East
+215,Charlestown - Dudley,Lake Macquarie - East
+216,Glendale - Cardiff - Hillsborough,Lake Macquarie - East
+217,Mount Hutton - Windale,Lake Macquarie - East
+218,Redhead,Lake Macquarie - East
+219,Swansea - Caves Beach,Lake Macquarie - East
+220,Valentine - Eleebana,Lake Macquarie - East
+221,Warners Bay - Boolaroo,Lake Macquarie - East
+222,Bolton Point - Teralba,Lake Macquarie - West
+223,Bonnells Bay - Silverwater,Lake Macquarie - West
+224,Edgeworth - Cameron Park,Lake Macquarie - West
+225,Morisset - Cooranbong,Lake Macquarie - West
+226,Toronto - Awaba,Lake Macquarie - West
+227,Wangi Wangi - Rathmines,Lake Macquarie - West
+228,West Wallsend - Barnsley - Killingworth,Lake Macquarie - West
+229,Adamstown - Kotara,Newcastle
+230,Beresfield - Hexham,Newcastle
+231,Hamilton - Broadmeadow,Newcastle
+232,Lambton - New Lambton,Newcastle
+233,Maryland - Fletcher - Minmi,Newcastle
+234,Mayfield - Warabrook,Newcastle
+235,Merewether - The Junction,Newcastle
+236,Newcastle - Cooks Hill,Newcastle
+237,Newcastle Port - Kooragang,Newcastle
+238,Shortland - Jesmond,Newcastle
+239,Stockton - Fullerton Cove,Newcastle
+240,Wallsend - Elermore Vale,Newcastle
+241,Waratah - North Lambton,Newcastle
+242,Wickham - Carrington - Tighes Hill,Newcastle
+243,Ballina,Richmond Valley - Coastal
+244,Ballina Surrounds,Richmond Valley - Coastal
+245,Bangalow,Richmond Valley - Coastal
+246,Brunswick Heads - Ocean Shores,Richmond Valley - Coastal
+247,Byron Bay,Richmond Valley - Coastal
+248,Evans Head,Richmond Valley - Coastal
+249,Lennox Head - Skennars Head,Richmond Valley - Coastal
+250,Mullumbimby,Richmond Valley - Coastal
+251,Casino,Richmond Valley - Hinterland
+252,Casino Surrounds,Richmond Valley - Hinterland
+253,Goonellabah,Richmond Valley - Hinterland
+254,Kyogle,Richmond Valley - Hinterland
+255,Lismore,Richmond Valley - Hinterland
+256,Lismore Surrounds,Richmond Valley - Hinterland
+257,Kingscliff - Fingal Head,Tweed Valley
+258,Murwillumbah,Tweed Valley
+259,Murwillumbah Surrounds,Tweed Valley
+260,Pottsville,Tweed Valley
+261,Tweed Heads,Tweed Valley
+262,Banora Point,Tweed Valley
+263,Terranora - North Tumbulgum,Tweed Valley
+264,Tweed Heads South,Tweed Valley
+265,Griffith (NSW),Griffith - Murrumbidgee (West)
+266,Griffith Surrounds,Griffith - Murrumbidgee (West)
+267,Leeton,Griffith - Murrumbidgee (West)
+268,Narrandera,Griffith - Murrumbidgee (West)
+269,Tumbarumba,Tumut - Tumbarumba
+270,Tumut,Tumut - Tumbarumba
+271,Tumut Surrounds,Tumut - Tumbarumba
+272,Cootamundra,Wagga Wagga
+273,Gundagai,Wagga Wagga
+274,Junee,Wagga Wagga
+275,Temora,Wagga Wagga
+276,Wagga Wagga - East,Wagga Wagga
+277,Wagga Wagga - North,Wagga Wagga
+278,Wagga Wagga - South,Wagga Wagga
+279,Wagga Wagga - West,Wagga Wagga
+280,Wagga Wagga Surrounds,Wagga Wagga
+281,Berry - Kangaroo Valley,Shoalhaven
+282,Callala Bay - Currarong,Shoalhaven
+283,Culburra Beach,Shoalhaven
+284,Ettrema - Sassafras - Budawang,Shoalhaven
+285,Huskisson - Vincentia,Shoalhaven
+286,North Nowra - Bomaderry,Shoalhaven
+287,Nowra,Shoalhaven
+288,St Georges Basin - Erowal Bay,Shoalhaven
+289,Sussex Inlet - Berrara,Shoalhaven
+290,Tomerong - Wandandian - Woollamia,Shoalhaven
+291,Ulladulla,Shoalhaven
+292,Ulladulla Surrounds,Shoalhaven
+293,Bowral,Southern Highlands
+294,Hill Top - Colo Vale,Southern Highlands
+295,Mittagong,Southern Highlands
+296,Moss Vale - Berrima,Southern Highlands
+297,Robertson - Fitzroy Falls,Southern Highlands
+298,Southern Highlands,Southern Highlands
+299,Baulkham Hills - East,Baulkham Hills
+300,Baulkham Hills (West) - Bella Vista,Baulkham Hills
+301,Glenhaven,Baulkham Hills
+302,West Pennant Hills,Baulkham Hills
+303,Castle Hill - Central,Baulkham Hills
+304,Castle Hill - East,Baulkham Hills
+305,Castle Hill - North,Baulkham Hills
+306,Castle Hill - South,Baulkham Hills
+307,Castle Hill - West,Baulkham Hills
+308,Cherrybrook,Baulkham Hills
+309,Kellyville - East,Baulkham Hills
+310,Kellyville - West,Baulkham Hills
+311,Dural - Kenthurst - Wisemans Ferry,Dural - Wisemans Ferry
+312,Galston - Laughtondale,Dural - Wisemans Ferry
+313,Bilpin - Colo - St Albans,Hawkesbury
+314,Kurrajong Heights - Ebenezer,Hawkesbury
+315,Pitt Town - McGraths Hill,Rouse Hill - McGraths Hill
+316,Box Hill - Nelson,Rouse Hill - McGraths Hill
+317,North Kellyville,Rouse Hill - McGraths Hill
+318,Rouse Hill - Beaumont Hills,Rouse Hill - McGraths Hill
+319,Blacktown (East) - Kings Park,Blacktown
+320,Blacktown (North) - Marayong,Blacktown
+321,Doonside - Woodcroft,Blacktown
+322,Lalor Park - Kings Langley,Blacktown
+323,Blacktown - South,Blacktown
+324,Blacktown - West,Blacktown
+325,Seven Hills - Prospect,Blacktown
+326,Toongabbie - West,Blacktown
+327,Glenwood,Blacktown - North
+328,Acacia Gardens,Blacktown - North
+329,Quakers Hill,Blacktown - North
+330,Kellyville Ridge - The Ponds,Blacktown - North
+331,Marsden Park - Shanes Park,Blacktown - North
+332,Riverstone,Blacktown - North
+333,Schofields (West) - Colebee,Blacktown - North
+334,Schofields - East,Blacktown - North
+335,Stanhope Gardens - Parklea,Blacktown - North
+336,Bidwill - Hebersham - Emerton,Mount Druitt
+337,Glendenning - Dean Park,Mount Druitt
+338,Hassall Grove - Plumpton,Mount Druitt
+339,Lethbridge Park - Tregear,Mount Druitt
+340,Mount Druitt - Whalan,Mount Druitt
+341,Prospect Reservoir,Mount Druitt
+342,Rooty Hill - Minchinbury,Mount Druitt
+343,Banksmeadow,Botany
+344,Botany,Botany
+345,Pagewood - Hillsdale - Daceyville,Botany
+346,Port Botany Industrial,Botany
+347,Sydney Airport,Botany
+348,Eastlakes,Botany
+349,Mascot,Botany
+350,Petersham - Stanmore,Marrickville - Sydenham - Petersham
+351,Sydenham - Tempe - St Peters,Marrickville - Sydenham - Petersham
+352,Marrickville - North,Marrickville - Sydenham - Petersham
+353,Marrickville - South,Marrickville - Sydenham - Petersham
+354,Darlinghurst,Sydney Inner City
+355,Erskineville - Alexandria,Sydney Inner City
+356,Glebe - Forest Lodge,Sydney Inner City
+357,Potts Point - Woolloomooloo,Sydney Inner City
+358,Surry Hills,Sydney Inner City
+359,Camperdown - Darlington,Sydney Inner City
+360,Chippendale,Sydney Inner City
+361,Newtown (NSW),Sydney Inner City
+362,Pyrmont,Sydney Inner City
+363,Redfern,Sydney Inner City
+364,Rosebery - Beaconsfield,Sydney Inner City
+365,Sydney (North) - Millers Point,Sydney Inner City
+366,Sydney (South) - Haymarket,Sydney Inner City
+367,Ultimo,Sydney Inner City
+368,Waterloo,Sydney Inner City
+369,Zetland,Sydney Inner City
+370,Bondi - Tamarama - Bronte,Eastern Suburbs - North
+371,Bondi Beach - North Bondi,Eastern Suburbs - North
+372,Bondi Junction - Waverly,Eastern Suburbs - North
+373,Centennial Park,Eastern Suburbs - North
+374,Dover Heights,Eastern Suburbs - North
+375,Paddington - Moore Park,Eastern Suburbs - North
+376,Rose Bay - Vaucluse - Watsons Bay,Eastern Suburbs - North
+377,Woollahra,Eastern Suburbs - North
+378,Bellevue Hill,Eastern Suburbs - North
+379,Double Bay - Darling Point,Eastern Suburbs - North
+380,Kensington (NSW),Eastern Suburbs - South
+381,Kingsford,Eastern Suburbs - South
+382,Maroubra - North,Eastern Suburbs - South
+383,Maroubra - South,Eastern Suburbs - South
+384,Maroubra - West,Eastern Suburbs - South
+385,Randwick - North,Eastern Suburbs - South
+386,Randwick - South,Eastern Suburbs - South
+387,Coogee - Clovelly,Eastern Suburbs - South
+388,Malabar - La Perouse,Eastern Suburbs - South
+389,Matraville - Chifley,Eastern Suburbs - South
+390,South Coogee,Eastern Suburbs - South
+391,Bass Hill - Georges Hall,Bankstown
+392,Chullora,Bankstown
+393,Condell Park,Bankstown
+394,Padstow,Bankstown
+395,Revesby,Bankstown
+396,Yagoona - Birrong,Bankstown
+397,Bankstown - North,Bankstown
+398,Bankstown - South,Bankstown
+399,Greenacre - North,Bankstown
+400,Greenacre - South,Bankstown
+401,Panania (North) - Milperra,Bankstown
+402,Panania (South) - Picnic Point,Bankstown
+403,Belmore - Belfield,Canterbury
+404,Punchbowl,Canterbury
+405,Roselands,Canterbury
+406,Lakemba,Canterbury
+407,Wiley Park,Canterbury
+408,Campsie - North,Canterbury
+409,Campsie - South,Canterbury
+410,Canterbury - South,Canterbury
+411,Earlwood,Canterbury
+412,Kingsgrove - North,Canterbury
+413,Narwee - Beverly Hills,Hurstville
+414,Oatley - Hurstville Grove,Hurstville
+415,Peakhurst - Lugarno,Hurstville
+416,Riverwood,Hurstville
+417,South Hurstville - Blakehurst,Hurstville
+418,Hurstville - Central,Hurstville
+419,Hurstville - North,Hurstville
+420,Mortdale - Oatley,Hurstville
+421,Penshurst,Hurstville
+422,Kingsgrove (South) - Bardwell Park,Kogarah - Rockdale
+423,Kogarah,Kogarah - Rockdale
+424,Kogarah Bay - Carlton - Allawah,Kogarah - Rockdale
+425,Monterey - Brighton-le-Sands - Kyeemagh,Kogarah - Rockdale
+426,Rockdale - Banksia,Kogarah - Rockdale
+427,Sans Souci - Ramsgate,Kogarah - Rockdale
+428,Arncliffe - Bardwell Valley,Kogarah - Rockdale
+429,Bexley - North,Kogarah - Rockdale
+430,Bexley - South,Kogarah - Rockdale
+431,Wolli Creek,Kogarah - Rockdale
+432,Concord - Mortlake - Cabarita,Canada Bay
+433,Drummoyne - Rodd Point,Canada Bay
+434,Five Dock - Abbotsford,Canada Bay
+435,Concord West - North Strathfield,Canada Bay
+436,Rhodes,Canada Bay
+437,Balmain,Leichhardt
+438,Lilyfield - Rozelle,Leichhardt
+439,Annandale (NSW),Leichhardt
+440,Leichhardt,Leichhardt
+441,Canterbury (North) - Ashbury,Strathfield - Burwood - Ashfield
+442,Croydon Park - Enfield,Strathfield - Burwood - Ashfield
+443,Dulwich Hill - Lewisham,Strathfield - Burwood - Ashfield
+444,Haberfield - Summer Hill,Strathfield - Burwood - Ashfield
+445,Homebush,Strathfield - Burwood - Ashfield
+446,Strathfield South,Strathfield - Burwood - Ashfield
+447,Ashfield - North,Strathfield - Burwood - Ashfield
+448,Ashfield - South,Strathfield - Burwood - Ashfield
+449,Burwood (NSW),Strathfield - Burwood - Ashfield
+450,Croydon,Strathfield - Burwood - Ashfield
+451,Strathfield - East,Strathfield - Burwood - Ashfield
+452,Strathfield - West,Strathfield - Burwood - Ashfield
+453,Chatswood (West) - Lane Cove North,Chatswood - Lane Cove
+454,St Leonards - Naremburn,Chatswood - Lane Cove
+455,Artarmon,Chatswood - Lane Cove
+456,Castle Cove - Northbridge,Chatswood - Lane Cove
+457,Chatswood - East,Chatswood - Lane Cove
+458,Greenwich - Riverview,Chatswood - Lane Cove
+459,Lane Cove,Chatswood - Lane Cove
+460,Willoughby,Chatswood - Lane Cove
+461,Asquith - Mount Colah,Hornsby
+462,Berowra - Brooklyn - Cowan,Hornsby
+463,Normanhurst - Thornleigh - Westleigh,Hornsby
+464,Hornsby - East,Hornsby
+465,Hornsby - West,Hornsby
+466,Wahroonga (West) - Waitara,Hornsby
+467,Gordon - Killara,Ku-ring-gai
+468,Lindfield - Roseville,Ku-ring-gai
+469,Pymble,Ku-ring-gai
+470,St Ives,Ku-ring-gai
+471,Turramurra,Ku-ring-gai
+472,Wahroonga (East) - Warrawee,Ku-ring-gai
+473,Cremorne - Cammeray,North Sydney - Mosman
+474,Crows Nest - Waverton,North Sydney - Mosman
+475,Neutral Bay - Kirribilli,North Sydney - Mosman
+476,North Sydney - Lavender Bay,North Sydney - Mosman
+477,Mosman - North,North Sydney - Mosman
+478,Mosman - South,North Sydney - Mosman
+479,Balgowlah - Clontarf - Seaforth,Manly
+480,Manly - Fairlight,Manly
+481,Avalon - Palm Beach,Pittwater
+482,Bayview - Elanora Heights,Pittwater
+483,Newport - Bilgola,Pittwater
+484,Mona Vale - Warriewood (North),Pittwater
+485,North Narrabeen - Warriewood (South),Pittwater
+486,Beacon Hill - Narraweena,Warringah
+487,Cromer,Warringah
+488,Forestville - Killarney Heights,Warringah
+489,Freshwater - Brookvale,Warringah
+490,Manly Vale - Allambie Heights,Warringah
+491,Terrey Hills - Duffys Forest,Warringah
+492,Belrose,Warringah
+493,Collaroy - Collaroy Plateau,Warringah
+494,Dee Why (South) - North Curl Curl,Warringah
+495,Dee Why - North,Warringah
+496,Frenchs Forest - Oxford Falls,Warringah
+497,Narrabeen - Wheeler Heights,Warringah
+498,Camden - Ellis Lane,Camden
+499,Currans Hill,Camden
+500,Elderslie - Narellan,Camden
+501,Harrington Park,Camden
+502,Mount Annan,Camden
+503,Spring Farm,Camden
+504,Bradbury - Wedderburn,Campbelltown (NSW)
+505,Campbelltown - Woodbine,Campbelltown (NSW)
+506,Claymore - Eagle Vale - Raby,Campbelltown (NSW)
+507,Holsworthy Military Area,Campbelltown (NSW)
+508,Leumeah - Minto Heights,Campbelltown (NSW)
+509,Minto - St Andrews,Campbelltown (NSW)
+510,Rosemeadow - Glen Alpine,Campbelltown (NSW)
+511,Denham Court - Bardia,Campbelltown (NSW)
+512,Glenfield,Campbelltown (NSW)
+513,Ingleburn,Campbelltown (NSW)
+514,Macquarie Fields,Campbelltown (NSW)
+515,Bargo,Wollondilly
+516,Douglas Park - Appin,Wollondilly
+517,Picton - Tahmoor - Buxton,Wollondilly
+518,The Oaks - Oakdale,Wollondilly
+519,Blackheath - Megalong Valley,Blue Mountains
+520,Blaxland - Warrimoo - Lapstone,Blue Mountains
+521,Blue Mountains - North,Blue Mountains
+522,Katoomba - Leura,Blue Mountains
+523,Lawson - Hazelbrook - Linden,Blue Mountains
+524,Springwood - Winmalee,Blue Mountains
+525,Wentworth Falls,Blue Mountains
+526,Blue Mountains - South,Blue Mountains - South
+527,Cambridge Park,Penrith
+528,Emu Plains - Leonay,Penrith
+529,Glenmore Park - Regentville,Penrith
+530,Jamisontown - South Penrith,Penrith
+531,Kingswood - Werrington,Penrith
+532,Mulgoa - Luddenham - Orchard Hills,Penrith
+533,Penrith,Penrith
+534,Warragamba - Silverdale,Penrith
+535,Cranebrook - Castlereagh,Penrith
+536,Jordan Springs - Llandilo,Penrith
+537,Richmond - Clarendon,Richmond - Windsor
+538,Windsor - Bligh Park,Richmond - Windsor
+539,Yarramundi - Londonderry,Richmond - Windsor
+540,Erskine Park,St Marys
+541,St Clair,St Marys
+542,Colyton - Oxley Park,St Marys
+543,St Marys - North St Marys,St Marys
+544,Rookwood Cemetery,Auburn
+545,Auburn - Central,Auburn
+546,Auburn - North,Auburn
+547,Auburn - South,Auburn
+548,Berala,Auburn
+549,Lidcombe,Auburn
+550,Regents Park,Auburn
+551,Silverwater - Newington,Auburn
+552,Wentworth Point - Sydney Olympic Park,Auburn
+553,Ermington - Rydalmere,Carlingford
+554,Oatlands - Dundas Valley,Carlingford
+555,Carlingford - East,Carlingford
+556,Carlingford - West,Carlingford
+557,Chester Hill - Sefton,Merrylands - Guildford
+558,Fairfield - East,Merrylands - Guildford
+559,Granville - Clyde,Merrylands - Guildford
+560,Guildford - South Granville,Merrylands - Guildford
+561,Guildford West - Merrylands West,Merrylands - Guildford
+562,Smithfield Industrial,Merrylands - Guildford
+563,Yennora Industrial,Merrylands - Guildford
+564,Greystanes - South,Merrylands - Guildford
+565,Merrylands - Holroyd,Merrylands - Guildford
+566,Pemulwuy - Greystanes (North),Merrylands - Guildford
+567,South Wentworthville,Merrylands - Guildford
+568,North Parramatta,Parramatta
+569,North Rocks,Parramatta
+570,Northmead,Parramatta
+571,Toongabbie - Constitution Hill,Parramatta
+572,Winston Hills,Parramatta
+573,Pendle Hill - Girraween,Parramatta
+574,Wentworthville - Westmead,Parramatta
+575,Parramatta - North,Parramatta
+576,Parramatta - South,Parramatta
+577,Rosehill - Harris Park,Parramatta
+578,Pennant Hills - Cheltenham,Pennant Hills - Epping
+579,Epping (East) - North Epping,Pennant Hills - Epping
+580,Epping (NSW) - West,Pennant Hills - Epping
+581,Gladesville - Huntleys Point,Ryde - Hunters Hill
+582,Hunters Hill - Woolwich,Ryde - Hunters Hill
+583,Macquarie Park - Marsfield,Ryde - Hunters Hill
+584,North Ryde - East Ryde,Ryde - Hunters Hill
+585,West Ryde - Meadowbank,Ryde - Hunters Hill
+586,Putney,Ryde - Hunters Hill
+587,Denistone,Ryde - Hunters Hill
+588,Eastwood,Ryde - Hunters Hill
+589,Ryde - North,Ryde - Hunters Hill
+590,Ryde - South,Ryde - Hunters Hill
+591,Ashcroft - Busby - Miller,Bringelly - Green Valley
+592,Austral - Greendale,Bringelly - Green Valley
+593,Badgerys Creek,Bringelly - Green Valley
+594,Cecil Hills,Bringelly - Green Valley
+595,Green Valley,Bringelly - Green Valley
+596,Hinchinbrook,Bringelly - Green Valley
+597,Hoxton Park - Carnes Hill - Horningsea Park,Bringelly - Green Valley
+598,West Hoxton - Middleton Grange,Bringelly - Green Valley
+599,Cobbitty - Bringelly,Bringelly - Green Valley
+600,Gledswood Hills - Gregory Hills,Bringelly - Green Valley
+601,Leppington - Catherine Field,Bringelly - Green Valley
+602,Oran Park,Bringelly - Green Valley
+603,Bonnyrigg Heights - Bonnyrigg,Fairfield
+604,Bossley Park - Abbotsbury,Fairfield
+605,Cabramatta - Lansvale,Fairfield
+606,Cabramatta West - Mount Pritchard,Fairfield
+607,Canley Vale - Canley Heights,Fairfield
+608,Edensor Park,Fairfield
+609,Fairfield,Fairfield
+610,Fairfield - West,Fairfield
+611,Greenfield Park - Prairiewood,Fairfield
+612,Horsley Park - Kemps Creek,Fairfield
+613,Smithfield - Wetherill Park,Fairfield
+614,St Johns Park - Wakeley,Fairfield
+615,Wetherill Park Industrial,Fairfield
+616,Casula,Liverpool
+617,Chipping Norton - Moorebank,Liverpool
+618,Holsworthy - Wattle Grove,Liverpool
+619,Lurnea - Cartwright,Liverpool
+620,Warwick Farm,Liverpool
+621,Edmondson Park,Liverpool
+622,Liverpool - East,Liverpool
+623,Liverpool - West,Liverpool
+624,Prestons,Liverpool
+625,Gymea - Grays Point,Cronulla - Miranda - Caringbah
+626,Miranda - Yowie Bay,Cronulla - Miranda - Caringbah
+627,Sylvania - Taren Point,Cronulla - Miranda - Caringbah
+628,Caringbah,Cronulla - Miranda - Caringbah
+629,Caringbah South,Cronulla - Miranda - Caringbah
+630,Cronulla - Kurnell - Bundeena,Cronulla - Miranda - Caringbah
+631,Lilli Pilli - Port Hacking - Dolans Bay,Cronulla - Miranda - Caringbah
+632,Woolooware - Burraneer,Cronulla - Miranda - Caringbah
+633,Heathcote - Waterfall,Sutherland - Menai - Heathcote
+634,Illawong - Alfords Point,Sutherland - Menai - Heathcote
+635,Menai - Lucas Heights - Woronora,Sutherland - Menai - Heathcote
+636,Oyster Bay - Como - Jannali,Sutherland - Menai - Heathcote
+637,Royal National Park,Sutherland - Menai - Heathcote
+638,Sutherland - Kirrawee,Sutherland - Menai - Heathcote
+639,Engadine,Sutherland - Menai - Heathcote
+640,Loftus - Yarrawarrah,Sutherland - Menai - Heathcote
+641,Woronora Heights,Sutherland - Menai - Heathcote
+642,Migratory - Offshore - Shipping (NSW),Migratory - Offshore - Shipping (NSW)
+643,No usual address (NSW),No usual address (NSW)
+644,Alfredton,Ballarat
+645,Ballarat,Ballarat
+646,Buninyong,Ballarat
+647,Delacombe,Ballarat
+648,Smythes Creek,Ballarat
+649,Wendouree - Miners Rest,Ballarat
+650,Ballarat East - Warrenheip,Ballarat
+651,Ballarat North - Invermay,Ballarat
+652,Canadian - Mount Clear,Ballarat
+653,Sebastopol - Redan,Ballarat
+654,Bacchus Marsh Surrounds,Creswick - Daylesford - Ballan
+655,Creswick - Clunes,Creswick - Daylesford - Ballan
+656,Daylesford,Creswick - Daylesford - Ballan
+657,Gordon (Vic.),Creswick - Daylesford - Ballan
+658,Avoca,Maryborough - Pyrenees
+659,Beaufort,Maryborough - Pyrenees
+660,Golden Plains - North,Maryborough - Pyrenees
+661,Maryborough (Vic.),Maryborough - Pyrenees
+662,Maryborough Surrounds,Maryborough - Pyrenees
+663,Bendigo,Bendigo
+664,California Gully - Eaglehawk,Bendigo
+665,East Bendigo - Kennington,Bendigo
+666,Flora Hill - Spring Gully,Bendigo
+667,Kangaroo Flat - Golden Square,Bendigo
+668,Maiden Gully,Bendigo
+669,Strathfieldsaye,Bendigo
+670,White Hills - Ascot,Bendigo
+671,Bendigo Surrounds - South,Heathcote - Castlemaine - Kyneton
+672,Castlemaine,Heathcote - Castlemaine - Kyneton
+673,Castlemaine Surrounds,Heathcote - Castlemaine - Kyneton
+674,Heathcote,Heathcote - Castlemaine - Kyneton
+675,Kyneton,Heathcote - Castlemaine - Kyneton
+676,Woodend,Heathcote - Castlemaine - Kyneton
+677,Bendigo Surrounds - North,Loddon - Elmore
+678,Loddon,Loddon - Elmore
+679,Bannockburn,Barwon - West
+680,Golden Plains - South,Barwon - West
+681,Winchelsea,Barwon - West
+682,Belmont,Geelong
+683,Geelong,Geelong
+684,Geelong West - Hamlyn Heights,Geelong
+685,Highton,Geelong
+686,Lara,Geelong
+687,Leopold,Geelong
+688,Newcomb - Moolap,Geelong
+689,Newtown (Vic.),Geelong
+690,North Geelong - Bell Park,Geelong
+691,Charlemont,Geelong
+692,Corio - Lovely Banks,Geelong
+693,Grovedale - Mount Duneed,Geelong
+694,Norlane,Geelong
+695,Clifton Springs,Surf Coast - Bellarine Peninsula
+696,Lorne - Anglesea,Surf Coast - Bellarine Peninsula
+697,Portarlington,Surf Coast - Bellarine Peninsula
+698,Point Lonsdale - Queenscliff,Surf Coast - Bellarine Peninsula
+699,Torquay,Surf Coast - Bellarine Peninsula
+700,Barwon Heads - Armstrong Creek,Surf Coast - Bellarine Peninsula
+701,Ocean Grove,Surf Coast - Bellarine Peninsula
+702,Alexandra,Upper Goulburn Valley
+703,Euroa,Upper Goulburn Valley
+704,Kilmore - Broadford,Upper Goulburn Valley
+705,Mansfield (Vic.),Upper Goulburn Valley
+706,Nagambie,Upper Goulburn Valley
+707,Seymour,Upper Goulburn Valley
+708,Seymour Surrounds,Upper Goulburn Valley
+709,Upper Yarra Valley,Upper Goulburn Valley
+710,Yea,Upper Goulburn Valley
+711,Benalla,Wangaratta - Benalla
+712,Benalla Surrounds,Wangaratta - Benalla
+713,Rutherglen,Wangaratta - Benalla
+714,Wangaratta,Wangaratta - Benalla
+715,Wangaratta Surrounds,Wangaratta - Benalla
+716,Beechworth,Wodonga - Alpine
+717,Bright - Mount Beauty,Wodonga - Alpine
+718,Chiltern - Indigo Valley,Wodonga - Alpine
+719,Myrtleford,Wodonga - Alpine
+720,Towong,Wodonga - Alpine
+721,West Wodonga,Wodonga - Alpine
+722,Yackandandah,Wodonga - Alpine
+723,Baranduda - Leneva,Wodonga - Alpine
+724,Wodonga,Wodonga - Alpine
+725,Drouin,Baw Baw
+726,Mount Baw Baw Region,Baw Baw
+727,Trafalgar (Vic.),Baw Baw
+728,Warragul,Baw Baw
+729,Alps - East,Gippsland - East
+730,Bairnsdale,Gippsland - East
+731,Bruthen - Omeo,Gippsland - East
+732,Lake King,Gippsland - East
+733,Lakes Entrance,Gippsland - East
+734,Orbost,Gippsland - East
+735,Paynesville,Gippsland - East
+736,Foster,Gippsland - South West
+737,French Island,Gippsland - South West
+738,Korumburra,Gippsland - South West
+739,Leongatha,Gippsland - South West
+740,Phillip Island,Gippsland - South West
+741,Wilsons Promontory,Gippsland - South West
+742,Wonthaggi - Inverloch,Gippsland - South West
+743,Churchill,Latrobe Valley
+744,Moe - Newborough,Latrobe Valley
+745,Morwell,Latrobe Valley
+746,Yallourn North - Glengarry,Latrobe Valley
+747,Traralgon - East,Latrobe Valley
+748,Traralgon - West,Latrobe Valley
+749,Alps - West,Wellington
+750,Longford - Loch Sport,Wellington
+751,Maffra,Wellington
+752,Rosedale,Wellington
+753,Sale,Wellington
+754,Yarram,Wellington
+755,Brunswick East,Brunswick - Coburg
+756,Brunswick West,Brunswick - Coburg
+757,Pascoe Vale South,Brunswick - Coburg
+758,Brunswick - North,Brunswick - Coburg
+759,Brunswick - South,Brunswick - Coburg
+760,Coburg - East,Brunswick - Coburg
+761,Coburg - West,Brunswick - Coburg
+762,Alphington - Fairfield,Darebin - South
+763,Thornbury,Darebin - South
+764,Northcote - East,Darebin - South
+765,Northcote - West,Darebin - South
+766,Ascot Vale,Essendon
+767,Flemington,Essendon
+768,Moonee Ponds,Essendon
+769,Essendon (West) - Aberfeldie,Essendon
+770,Essendon - East,Essendon
+771,Carlton,Melbourne City
+772,Docklands,Melbourne City
+773,East Melbourne,Melbourne City
+774,Flemington Racecourse,Melbourne City
+775,Kensington (Vic.),Melbourne City
+776,Parkville,Melbourne City
+777,South Yarra - West,Melbourne City
+778,West Melbourne - Industrial,Melbourne City
+779,Melbourne CBD - East,Melbourne City
+780,Melbourne CBD - North,Melbourne City
+781,Melbourne CBD - West,Melbourne City
+782,North Melbourne,Melbourne City
+783,Royal Botanic Gardens Victoria,Melbourne City
+784,Southbank (West) - South Wharf,Melbourne City
+785,Southbank - East,Melbourne City
+786,West Melbourne - Residential,Melbourne City
+787,Albert Park,Port Phillip
+788,Elwood,Port Phillip
+789,Port Melbourne,Port Phillip
+790,St Kilda East,Port Phillip
+791,Port Melbourne Industrial,Port Phillip
+792,South Melbourne,Port Phillip
+793,St Kilda - Central,Port Phillip
+794,St Kilda - West,Port Phillip
+795,Armadale,Stonnington - West
+796,Prahran - Windsor,Stonnington - West
+797,Toorak,Stonnington - West
+798,South Yarra - North,Stonnington - West
+799,South Yarra - South,Stonnington - West
+800,Abbotsford,Yarra
+801,Carlton North - Princes Hill,Yarra
+802,Collingwood,Yarra
+803,Fitzroy,Yarra
+804,Fitzroy North,Yarra
+805,Clifton Hill - Alphington,Yarra
+806,Richmond (South) - Cremorne,Yarra
+807,Richmond - North,Yarra
+808,Ashburton (Vic.),Boroondara
+809,Balwyn,Boroondara
+810,Balwyn North,Boroondara
+811,Camberwell,Boroondara
+812,Glen Iris - East,Boroondara
+813,Hawthorn East,Boroondara
+814,Kew East,Boroondara
+815,Surrey Hills (West) - Canterbury,Boroondara
+816,Hawthorn - North,Boroondara
+817,Hawthorn - South,Boroondara
+818,Kew - South,Boroondara
+819,Kew - West,Boroondara
+820,Bulleen,Manningham - West
+821,Doncaster,Manningham - West
+822,Templestowe,Manningham - West
+823,Templestowe Lower,Manningham - West
+824,Doncaster East - North,Manningham - West
+825,Doncaster East - South,Manningham - West
+826,Blackburn,Whitehorse - West
+827,Blackburn South,Whitehorse - West
+828,Box Hill,Whitehorse - West
+829,Box Hill North,Whitehorse - West
+830,Burwood (Vic.),Whitehorse - West
+831,Burwood East,Whitehorse - West
+832,Surrey Hills (East) - Mont Albert,Whitehorse - West
+833,Beaumaris,Bayside
+834,Brighton (Vic.),Bayside
+835,Brighton East,Bayside
+836,Highett (West) - Cheltenham,Bayside
+837,Hampton,Bayside
+838,Sandringham - Black Rock,Bayside
+839,Bentleigh - McKinnon,Glen Eira
+840,Carnegie,Glen Eira
+841,Caulfield - North,Glen Eira
+842,Caulfield - South,Glen Eira
+843,Elsternwick,Glen Eira
+844,Hughesdale,Glen Eira
+845,Murrumbeena,Glen Eira
+846,Ormond - Glen Huntly,Glen Eira
+847,Bentleigh East - North,Glen Eira
+848,Bentleigh East - South,Glen Eira
+849,Aspendale Gardens - Waterways,Kingston
+850,Braeside,Kingston
+851,Carrum - Patterson Lakes,Kingston
+852,Chelsea - Bonbeach,Kingston
+853,Chelsea Heights,Kingston
+854,Highett (East) - Cheltenham,Kingston
+855,Edithvale - Aspendale,Kingston
+856,Mentone,Kingston
+857,Moorabbin - Heatherton,Kingston
+858,Moorabbin Airport,Kingston
+859,Mordialloc - Parkdale,Kingston
+860,Malvern - Glen Iris,Stonnington - East
+861,Malvern East,Stonnington - East
+862,Bundoora - East,Banyule
+863,Greensborough,Banyule
+864,Heidelberg - Rosanna,Banyule
+865,Heidelberg West,Banyule
+866,Ivanhoe,Banyule
+867,Ivanhoe East - Eaglemont,Banyule
+868,Montmorency - Briar Hill,Banyule
+869,Viewbank - Yallambie,Banyule
+870,Watsonia,Banyule
+871,Kingsbury,Darebin - North
+872,Preston - East,Darebin - North
+873,Preston - West,Darebin - North
+874,Reservoir - North East,Darebin - North
+875,Reservoir - North West,Darebin - North
+876,Reservoir - South East,Darebin - North
+877,Reservoir - South West,Darebin - North
+878,Eltham,Nillumbik - Kinglake
+879,Hurstbridge,Nillumbik - Kinglake
+880,Kinglake,Nillumbik - Kinglake
+881,Panton Hill - St Andrews,Nillumbik - Kinglake
+882,Plenty - Yarrambat,Nillumbik - Kinglake
+883,Research - North Warrandyte,Nillumbik - Kinglake
+884,Wattle Glen - Diamond Creek,Nillumbik - Kinglake
+885,Bundoora - North,Whittlesea - Wallan
+886,Bundoora - West,Whittlesea - Wallan
+887,Mill Park - North,Whittlesea - Wallan
+888,Mill Park - South,Whittlesea - Wallan
+889,Thomastown,Whittlesea - Wallan
+890,Wallan,Whittlesea - Wallan
+891,Whittlesea,Whittlesea - Wallan
+892,Epping - East,Whittlesea - Wallan
+893,Epping - South,Whittlesea - Wallan
+894,Epping (Vic.) - West,Whittlesea - Wallan
+895,South Morang - North,Whittlesea - Wallan
+896,South Morang - South,Whittlesea - Wallan
+897,Wollert,Whittlesea - Wallan
+898,Doreen - North,Whittlesea - Wallan
+899,Doreen - South,Whittlesea - Wallan
+900,Lalor - East,Whittlesea - Wallan
+901,Lalor - West,Whittlesea - Wallan
+902,Mernda - North,Whittlesea - Wallan
+903,Mernda - South,Whittlesea - Wallan
+904,Airport West,Keilor
+905,Essendon Airport,Keilor
+906,Keilor,Keilor
+907,Niddrie - Essendon West,Keilor
+908,Strathmore,Keilor
+909,Avondale Heights,Keilor
+910,Keilor East,Keilor
+911,Gisborne,Macedon Ranges
+912,Macedon,Macedon Ranges
+913,Riddells Creek,Macedon Ranges
+914,Romsey,Macedon Ranges
+915,Coburg North,Moreland - North
+916,Fawkner,Moreland - North
+917,Gowanbrae,Moreland - North
+918,Hadfield,Moreland - North
+919,Glenroy - East,Moreland - North
+920,Glenroy - West,Moreland - North
+921,Oak Park,Moreland - North
+922,Pascoe Vale,Moreland - North
+923,Sunbury,Sunbury
+924,Diggers Rest,Sunbury
+925,Sunbury - South,Sunbury
+926,Sunbury - West,Sunbury
+927,Broadmeadows,Tullamarine - Broadmeadows
+928,Campbellfield - Coolaroo,Tullamarine - Broadmeadows
+929,Gladstone Park - Westmeadows,Tullamarine - Broadmeadows
+930,Greenvale - Bulla,Tullamarine - Broadmeadows
+931,Meadow Heights,Tullamarine - Broadmeadows
+932,Melbourne Airport,Tullamarine - Broadmeadows
+933,Tullamarine,Tullamarine - Broadmeadows
+934,Craigieburn - Central,Tullamarine - Broadmeadows
+935,Craigieburn - North,Tullamarine - Broadmeadows
+936,Craigieburn - South,Tullamarine - Broadmeadows
+937,Mickleham - Yuroke,Tullamarine - Broadmeadows
+938,Craigieburn - North West,Tullamarine - Broadmeadows
+939,Craigieburn - West,Tullamarine - Broadmeadows
+940,Roxburgh Park (South) - Somerton,Tullamarine - Broadmeadows
+941,Roxburgh Park - North,Tullamarine - Broadmeadows
+942,Bayswater,Knox
+943,Knoxfield - Scoresby,Knox
+944,Lysterfield,Knox
+945,Rowville - Central,Knox
+946,Rowville - North,Knox
+947,Rowville - South,Knox
+948,Wantirna,Knox
+949,Wantirna South,Knox
+950,Boronia,Knox
+951,Ferntree Gully - North,Knox
+952,Ferntree Gully (South) - Upper Ferntree Gully,Knox
+953,The Basin,Knox
+954,Donvale - Park Orchards,Manningham - East
+955,Warrandyte - Wonga Park,Manningham - East
+956,Bayswater North,Maroondah
+957,Croydon Hills - Warranwood,Maroondah
+958,Ringwood,Maroondah
+959,Ringwood East,Maroondah
+960,Ringwood North,Maroondah
+961,Croydon - East,Maroondah
+962,Croydon - West,Maroondah
+963,Croydon South,Maroondah
+964,Forest Hill,Whitehorse - East
+965,Mitcham (Vic.),Whitehorse - East
+966,Nunawading,Whitehorse - East
+967,Vermont,Whitehorse - East
+968,Vermont South,Whitehorse - East
+969,Belgrave - Selby,Yarra Ranges
+970,Chirnside Park,Yarra Ranges
+971,Healesville - Yarra Glen,Yarra Ranges
+972,Kilsyth,Yarra Ranges
+973,Lilydale - Coldstream,Yarra Ranges
+974,Monbulk - Silvan,Yarra Ranges
+975,Montrose,Yarra Ranges
+976,Mooroolbark,Yarra Ranges
+977,Mount Dandenong - Olinda,Yarra Ranges
+978,Mount Evelyn,Yarra Ranges
+979,Upwey - Tecoma,Yarra Ranges
+980,Wandin - Seville,Yarra Ranges
+981,Yarra Valley,Yarra Ranges
+982,Emerald - Cockatoo,Cardinia
+983,Beaconsfield - Officer,Cardinia
+984,Bunyip - Garfield,Cardinia
+985,Koo Wee Rup,Cardinia
+986,Pakenham - North East,Cardinia
+987,Pakenham - North West,Cardinia
+988,Pakenham - South East,Cardinia
+989,Pakenham - South West,Cardinia
+990,Berwick - North,Casey - North
+991,Doveton,Casey - North
+992,Hallam,Casey - North
+993,Narre Warren North,Casey - North
+994,Endeavour Hills - North,Casey - North
+995,Endeavour Hills - South,Casey - North
+996,Narre Warren - North East,Casey - North
+997,Narre Warren - South West,Casey - North
+998,Berwick - South East,Casey - North
+999,Berwick - South West,Casey - North
+1000,Cranbourne,Casey - South
+1001,Cranbourne South,Casey - South
+1002,Cranbourne West,Casey - South
+1003,Lynbrook - Lyndhurst,Casey - South
+1004,Pearcedale - Tooradin,Casey - South
+1005,Narre Warren South - East,Casey - South
+1006,Narre Warren South - West,Casey - South
+1007,Clyde North - North,Casey - South
+1008,Clyde North - South,Casey - South
+1009,Cranbourne East - North,Casey - South
+1010,Cranbourne East - South,Casey - South
+1011,Cranbourne North - East,Casey - South
+1012,Cranbourne North - West,Casey - South
+1013,Hampton Park - East,Casey - South
+1014,Hampton Park - West,Casey - South
+1015,Clarinda - Oakleigh South,Dandenong
+1016,Clayton South,Dandenong
+1017,Dandenong North,Dandenong
+1018,Dingley Village,Dandenong
+1019,Noble Park North,Dandenong
+1020,Springvale,Dandenong
+1021,Springvale South,Dandenong
+1022,Noble Park - East,Dandenong
+1023,Noble Park - West,Dandenong
+1024,Dandenong - North,Dandenong
+1025,Dandenong - South,Dandenong
+1026,Keysborough - North,Dandenong
+1027,Keysborough - South,Dandenong
+1028,Ashwood - Chadstone,Monash
+1029,Glen Waverley - East,Monash
+1030,Glen Waverley - West,Monash
+1031,Mount Waverley - North,Monash
+1032,Mount Waverley - South,Monash
+1033,Mulgrave,Monash
+1034,Oakleigh - Huntingdale,Monash
+1035,Wheelers Hill,Monash
+1036,Clayton (North) - Notting Hill,Monash
+1037,Clayton - Central,Monash
+1038,Ardeer - Albion,Brimbank
+1039,Cairnlea,Brimbank
+1040,Delahey,Brimbank
+1041,Keilor Downs,Brimbank
+1042,Kings Park (Vic.),Brimbank
+1043,St Albans - North,Brimbank
+1044,St Albans - South,Brimbank
+1045,Sunshine,Brimbank
+1046,Sunshine North,Brimbank
+1047,Sunshine West,Brimbank
+1048,Sydenham,Brimbank
+1049,Taylors Lakes,Brimbank
+1050,Deer Park,Brimbank
+1051,Derrimut,Brimbank
+1052,Altona,Hobsons Bay
+1053,Altona Meadows,Hobsons Bay
+1054,Altona North,Hobsons Bay
+1055,Newport,Hobsons Bay
+1056,Seabrook,Hobsons Bay
+1057,Williamstown,Hobsons Bay
+1058,Braybrook,Maribyrnong
+1059,Footscray,Maribyrnong
+1060,Maribyrnong,Maribyrnong
+1061,Seddon - Kingsville,Maribyrnong
+1062,West Footscray - Tottenham,Maribyrnong
+1063,Yarraville,Maribyrnong
+1064,Bacchus Marsh,Melton - Bacchus Marsh
+1065,Melton West,Melton - Bacchus Marsh
+1066,Rockbank - Mount Cottrell,Melton - Bacchus Marsh
+1067,Taylors Hill,Melton - Bacchus Marsh
+1068,Burnside,Melton - Bacchus Marsh
+1069,Burnside Heights,Melton - Bacchus Marsh
+1070,Caroline Springs,Melton - Bacchus Marsh
+1071,Brookfield,Melton - Bacchus Marsh
+1072,Cobblebank - Strathtulloh,Melton - Bacchus Marsh
+1073,Eynesbury - Exford,Melton - Bacchus Marsh
+1074,Fraser Rise - Plumpton,Melton - Bacchus Marsh
+1075,Hillside,Melton - Bacchus Marsh
+1076,Kurunjang - Toolern Vale,Melton - Bacchus Marsh
+1077,Melton,Melton - Bacchus Marsh
+1078,Melton South - Weir Views,Melton - Bacchus Marsh
+1079,Hoppers Crossing - North,Wyndham
+1080,Hoppers Crossing - South,Wyndham
+1081,Laverton,Wyndham
+1082,Werribee - South,Wyndham
+1083,Point Cook - East,Wyndham
+1084,Point Cook - South,Wyndham
+1085,Werribee - East,Wyndham
+1086,Werribee - West,Wyndham
+1087,Manor Lakes - Quandong,Wyndham
+1088,Point Cook - North East,Wyndham
+1089,Point Cook - North West,Wyndham
+1090,Tarneit (West) - Mount Cottrell,Wyndham
+1091,Tarneit - Central,Wyndham
+1092,Tarneit - North,Wyndham
+1093,Tarneit - South,Wyndham
+1094,Truganina - North,Wyndham
+1095,Truganina - South East,Wyndham
+1096,Truganina - South West,Wyndham
+1097,Wyndham Vale - North,Wyndham
+1098,Wyndham Vale - South,Wyndham
+1099,Carrum Downs,Frankston
+1100,Frankston,Frankston
+1101,Frankston North,Frankston
+1102,Frankston South,Frankston
+1103,Langwarrin,Frankston
+1104,Seaford (Vic.),Frankston
+1105,Skye - Sandhurst,Frankston
+1106,Dromana,Mornington Peninsula
+1107,Flinders,Mornington Peninsula
+1108,Hastings - Somers,Mornington Peninsula
+1109,Mount Eliza,Mornington Peninsula
+1110,Mount Martha,Mornington Peninsula
+1111,Point Nepean,Mornington Peninsula
+1112,Rosebud - McCrae,Mornington Peninsula
+1113,Somerville,Mornington Peninsula
+1114,Mornington - East,Mornington Peninsula
+1115,Mornington - West,Mornington Peninsula
+1116,Ararat,Grampians
+1117,Ararat Surrounds,Grampians
+1118,Horsham,Grampians
+1119,Horsham Surrounds,Grampians
+1120,Nhill Region,Grampians
+1121,St Arnaud,Grampians
+1122,Stawell,Grampians
+1123,West Wimmera,Grampians
+1124,Yarriambiack,Grampians
+1125,Irymple,Mildura
+1126,Merbein,Mildura
+1127,Mildura Surrounds,Mildura
+1128,Red Cliffs,Mildura
+1129,Mildura - North,Mildura
+1130,Mildura - South,Mildura
+1131,Buloke,Murray River - Swan Hill
+1132,Gannawarra,Murray River - Swan Hill
+1133,Kerang,Murray River - Swan Hill
+1134,Robinvale,Murray River - Swan Hill
+1135,Swan Hill,Murray River - Swan Hill
+1136,Swan Hill Surrounds,Murray River - Swan Hill
+1137,Echuca,Campaspe
+1138,Kyabram,Campaspe
+1139,Lockington - Gunbower,Campaspe
+1140,Rochester,Campaspe
+1141,Rushworth,Campaspe
+1142,Cobram,Moira
+1143,Moira,Moira
+1144,Numurkah,Moira
+1145,Yarrawonga,Moira
+1146,Mooroopna,Shepparton
+1147,Shepparton - North,Shepparton
+1148,Shepparton Surrounds - East,Shepparton
+1149,Shepparton Surrounds - West,Shepparton
+1150,Kialla,Shepparton
+1151,Shepparton - South East,Shepparton
+1152,Glenelg (Vic.),Glenelg - Southern Grampians
+1153,Hamilton (Vic.),Glenelg - Southern Grampians
+1154,Portland,Glenelg - Southern Grampians
+1155,Southern Grampians,Glenelg - Southern Grampians
+1156,Camperdown,Colac - Corangamite
+1157,Colac,Colac - Corangamite
+1158,Colac Surrounds,Colac - Corangamite
+1159,Corangamite - North,Colac - Corangamite
+1160,Corangamite - South,Colac - Corangamite
+1161,Otway,Colac - Corangamite
+1162,Moyne - East,Warrnambool
+1163,Moyne - West,Warrnambool
+1164,Warrnambool - North,Warrnambool
+1165,Warrnambool - South,Warrnambool
+1166,Migratory - Offshore - Shipping (Vic.),Migratory - Offshore - Shipping (Vic.)
+1167,No usual address (Vic.),No usual address (Vic.)
+1168,Alexandra Hills,Capalaba
+1169,Belmont - Gumdale,Capalaba
+1170,Birkdale,Capalaba
+1171,Capalaba,Capalaba
+1172,Thorneside,Capalaba
+1173,Wellington Point,Capalaba
+1174,Cleveland,Cleveland - Stradbroke
+1175,Ormiston,Cleveland - Stradbroke
+1176,Redland Bay,Cleveland - Stradbroke
+1177,Sheldon - Mount Cotton,Cleveland - Stradbroke
+1178,Thornlands,Cleveland - Stradbroke
+1179,Victoria Point,Cleveland - Stradbroke
+1180,North Stradbroke Island,Cleveland - Stradbroke
+1181,Southern Moreton Bay Islands,Cleveland - Stradbroke
+1182,Brisbane Port - Lytton,Wynnum - Manly
+1183,Manly - Lota,Wynnum - Manly
+1184,Manly West,Wynnum - Manly
+1185,Murarrie,Wynnum - Manly
+1186,Tingalpa,Wynnum - Manly
+1187,Wakerley,Wynnum - Manly
+1188,Wynnum,Wynnum - Manly
+1189,Wynnum West - Hemmant,Wynnum - Manly
+1190,Bald Hills,Bald Hills - Everton Park
+1191,Bridgeman Downs,Bald Hills - Everton Park
+1192,Carseldine,Bald Hills - Everton Park
+1193,Everton Park,Bald Hills - Everton Park
+1194,McDowall,Bald Hills - Everton Park
+1195,Aspley,Chermside
+1196,Chermside,Chermside
+1197,Chermside West,Chermside
+1198,Geebung,Chermside
+1199,Kedron - Gordon Park,Chermside
+1200,Stafford,Chermside
+1201,Stafford Heights,Chermside
+1202,Wavell Heights,Chermside
+1203,Boondall,Nundah
+1204,Brisbane Airport,Nundah
+1205,Eagle Farm - Pinkenba,Nundah
+1206,Northgate - Virginia,Nundah
+1207,Nudgee - Banyo,Nundah
+1208,Nundah,Nundah
+1209,Bracken Ridge,Sandgate
+1210,Brighton (Qld),Sandgate
+1211,Deagon,Sandgate
+1212,Sandgate - Shorncliffe,Sandgate
+1213,Taigum - Fitzgibbon,Sandgate
+1214,Zillmere,Sandgate
+1215,Camp Hill,Carindale
+1216,Cannon Hill,Carindale
+1217,Carina,Carindale
+1218,Carina Heights,Carindale
+1219,Carindale,Carindale
+1220,Annerley,Holland Park - Yeronga
+1221,Coorparoo,Holland Park - Yeronga
+1222,Fairfield - Dutton Park,Holland Park - Yeronga
+1223,Greenslopes,Holland Park - Yeronga
+1224,Holland Park,Holland Park - Yeronga
+1225,Holland Park West,Holland Park - Yeronga
+1226,Woolloongabba,Holland Park - Yeronga
+1227,Yeronga,Holland Park - Yeronga
+1228,Eight Mile Plains,Mt Gravatt
+1229,Macgregor (Qld),Mt Gravatt
+1230,Mansfield (Qld),Mt Gravatt
+1231,Mount Gravatt,Mt Gravatt
+1232,Rochedale - Burbank,Mt Gravatt
+1233,Upper Mount Gravatt,Mt Gravatt
+1234,Wishart,Mt Gravatt
+1235,Coopers Plains,Nathan
+1236,Moorooka,Nathan
+1237,Robertson,Nathan
+1238,Salisbury - Nathan,Nathan
+1239,Tarragindi,Nathan
+1240,Algester,Rocklea - Acacia Ridge
+1241,Calamvale - Stretton,Rocklea - Acacia Ridge
+1242,Pallara - Willawong,Rocklea - Acacia Ridge
+1243,Parkinson - Drewvale,Rocklea - Acacia Ridge
+1244,Rocklea - Acacia Ridge,Rocklea - Acacia Ridge
+1245,Kuraby,Sunnybank
+1246,Runcorn,Sunnybank
+1247,Sunnybank,Sunnybank
+1248,Sunnybank Hills,Sunnybank
+1249,Jindalee - Mount Ommaney,Centenary
+1250,Middle Park - Jamboree Heights,Centenary
+1251,Riverhills,Centenary
+1252,Seventeen Mile Rocks - Sinnamon Park,Centenary
+1253,Westlake,Centenary
+1254,Bellbowrie - Moggill,Kenmore - Brookfield - Moggill
+1255,Brookfield - Kenmore Hills,Kenmore - Brookfield - Moggill
+1256,Chapel Hill,Kenmore - Brookfield - Moggill
+1257,Fig Tree Pocket,Kenmore - Brookfield - Moggill
+1258,Kenmore,Kenmore - Brookfield - Moggill
+1259,Pinjarra Hills - Pullenvale,Kenmore - Brookfield - Moggill
+1260,Chelmer - Graceville,Sherwood - Indooroopilly
+1261,Corinda,Sherwood - Indooroopilly
+1262,Indooroopilly,Sherwood - Indooroopilly
+1263,Sherwood,Sherwood - Indooroopilly
+1264,St Lucia,Sherwood - Indooroopilly
+1265,Taringa,Sherwood - Indooroopilly
+1266,Enoggera,The Gap - Enoggera
+1267,Enoggera Reservoir,The Gap - Enoggera
+1268,Keperra,The Gap - Enoggera
+1269,Mitchelton,The Gap - Enoggera
+1270,Mount Coot-tha,The Gap - Enoggera
+1271,The Gap,The Gap - Enoggera
+1272,Upper Kedron - Ferny Grove,The Gap - Enoggera
+1273,Brisbane City,Brisbane Inner
+1274,Fortitude Valley,Brisbane Inner
+1275,Highgate Hill,Brisbane Inner
+1276,Kangaroo Point,Brisbane Inner
+1277,New Farm,Brisbane Inner
+1278,South Brisbane,Brisbane Inner
+1279,Spring Hill,Brisbane Inner
+1280,West End,Brisbane Inner
+1281,Balmoral,Brisbane Inner - East
+1282,Bulimba,Brisbane Inner - East
+1283,East Brisbane,Brisbane Inner - East
+1284,Hawthorne,Brisbane Inner - East
+1285,Morningside - Seven Hills,Brisbane Inner - East
+1286,Norman Park,Brisbane Inner - East
+1287,Albion,Brisbane Inner - North
+1288,Alderley,Brisbane Inner - North
+1289,Ascot,Brisbane Inner - North
+1290,Clayfield,Brisbane Inner - North
+1291,Grange,Brisbane Inner - North
+1292,Hamilton (Qld),Brisbane Inner - North
+1293,Hendra,Brisbane Inner - North
+1294,Kelvin Grove - Herston,Brisbane Inner - North
+1295,Newmarket,Brisbane Inner - North
+1296,Newstead - Bowen Hills,Brisbane Inner - North
+1297,Wilston,Brisbane Inner - North
+1298,Windsor,Brisbane Inner - North
+1299,Wooloowin - Lutwyche,Brisbane Inner - North
+1300,Ashgrove,Brisbane Inner - West
+1301,Auchenflower,Brisbane Inner - West
+1302,Bardon,Brisbane Inner - West
+1303,Paddington - Milton,Brisbane Inner - West
+1304,Red Hill (Qld),Brisbane Inner - West
+1305,Toowong,Brisbane Inner - West
+1306,Brinsmead,Cairns - North
+1307,Clifton Beach - Kewarra Beach,Cairns - North
+1308,Freshwater - Stratford,Cairns - North
+1309,Redlynch,Cairns - North
+1310,Trinity Beach - Smithfield,Cairns - North
+1311,Yorkeys Knob - Machans Beach,Cairns - North
+1312,Bentley Park,Cairns - South
+1313,Cairns City,Cairns - South
+1314,Earlville - Bayview Heights,Cairns - South
+1315,Edmonton,Cairns - South
+1316,Gordonvale - Trinity,Cairns - South
+1317,Kanimbla - Mooroobool,Cairns - South
+1318,Lamb Range,Cairns - South
+1319,Manoora,Cairns - South
+1320,Manunda,Cairns - South
+1321,Mount Sheridan,Cairns - South
+1322,Westcourt - Bungalow,Cairns - South
+1323,White Rock,Cairns - South
+1324,Whitfield - Edge Hill,Cairns - South
+1325,Woree,Cairns - South
+1326,Babinda,Innisfail - Cassowary Coast
+1327,Innisfail,Innisfail - Cassowary Coast
+1328,Johnstone,Innisfail - Cassowary Coast
+1329,Tully,Innisfail - Cassowary Coast
+1330,Wooroonooran,Innisfail - Cassowary Coast
+1331,Yarrabah,Innisfail - Cassowary Coast
+1332,Daintree,Port Douglas - Daintree
+1333,Port Douglas,Port Douglas - Daintree
+1334,Atherton,Tablelands (East) - Kuranda
+1335,Herberton,Tablelands (East) - Kuranda
+1336,Kuranda,Tablelands (East) - Kuranda
+1337,Malanda - Yungaburra,Tablelands (East) - Kuranda
+1338,Mareeba,Tablelands (East) - Kuranda
+1339,Balonne,Darling Downs (West) - Maranoa
+1340,Chinchilla,Darling Downs (West) - Maranoa
+1341,Goondiwindi,Darling Downs (West) - Maranoa
+1342,Inglewood - Waggamba,Darling Downs (West) - Maranoa
+1343,Miles - Wandoan,Darling Downs (West) - Maranoa
+1344,Roma,Darling Downs (West) - Maranoa
+1345,Roma Surrounds,Darling Downs (West) - Maranoa
+1346,Tara,Darling Downs (West) - Maranoa
+1347,Crows Nest - Rosalie,Darling Downs - East
+1348,Jondaryan,Darling Downs - East
+1349,Millmerran,Darling Downs - East
+1350,Pittsworth,Darling Downs - East
+1351,Wambo,Darling Downs - East
+1352,Clifton - Greenmount,Granite Belt
+1353,Southern Downs - East,Granite Belt
+1354,Southern Downs - West,Granite Belt
+1355,Stanthorpe,Granite Belt
+1356,Stanthorpe Surrounds,Granite Belt
+1357,Warwick,Granite Belt
+1358,Central Highlands - East,Central Highlands (Qld)
+1359,Central Highlands - West,Central Highlands (Qld)
+1360,Emerald,Central Highlands (Qld)
+1361,Berserker,Rockhampton
+1362,Bouldercombe,Rockhampton
+1363,Emu Park,Rockhampton
+1364,Frenchville - Mount Archer,Rockhampton
+1365,Glenlee - Rockyview,Rockhampton
+1366,Gracemere,Rockhampton
+1367,Lakes Creek,Rockhampton
+1368,Mount Morgan,Rockhampton
+1369,Norman Gardens,Rockhampton
+1370,Park Avenue,Rockhampton
+1371,Parkhurst - Kawana,Rockhampton
+1372,Rockhampton - West,Rockhampton
+1373,Rockhampton City,Rockhampton
+1374,Rockhampton Surrounds - East,Rockhampton
+1375,Rockhampton Surrounds - North,Rockhampton
+1376,Rockhampton Surrounds - West,Rockhampton
+1377,Shoalwater Bay,Rockhampton
+1378,The Range - Allenstown,Rockhampton
+1379,Yeppoon,Rockhampton
+1380,Banana,Biloela
+1381,Biloela,Biloela
+1382,Agnes Water - Miriam Vale,Gladstone
+1383,Boyne Island - Tannum Sands,Gladstone
+1384,Callemondah,Gladstone
+1385,Clinton - New Auckland,Gladstone
+1386,Gladstone,Gladstone
+1387,Gladstone Hinterland,Gladstone
+1388,Kin Kora - Sun Valley,Gladstone
+1389,South Trees,Gladstone
+1390,Telina - Toolooa,Gladstone
+1391,West Gladstone,Gladstone
+1392,Broadbeach Waters,Broadbeach - Burleigh
+1393,Burleigh Heads,Broadbeach - Burleigh
+1394,Burleigh Waters,Broadbeach - Burleigh
+1395,Mermaid Beach - Broadbeach,Broadbeach - Burleigh
+1396,Mermaid Waters,Broadbeach - Burleigh
+1397,Miami,Broadbeach - Burleigh
+1398,Coolangatta,Coolangatta
+1399,Currumbin - Tugun,Coolangatta
+1400,Currumbin Waters,Coolangatta
+1401,Elanora,Coolangatta
+1402,Palm Beach,Coolangatta
+1403,Arundel,Gold Coast - North
+1404,Biggera Waters,Gold Coast - North
+1405,Coombabah,Gold Coast - North
+1406,Labrador,Gold Coast - North
+1407,Paradise Point - Hollywell,Gold Coast - North
+1408,Runaway Bay,Gold Coast - North
+1409,Guanaba - Springbrook,Gold Coast Hinterland
+1410,Tamborine - Canungra,Gold Coast Hinterland
+1411,Currumbin Valley - Tallebudgera,Mudgeeraba - Tallebudgera
+1412,Mudgeeraba - Bonogin,Mudgeeraba - Tallebudgera
+1413,Reedy Creek - Andrews,Mudgeeraba - Tallebudgera
+1414,Carrara,Nerang
+1415,Highland Park,Nerang
+1416,Nerang - Mount Nathan,Nerang
+1417,Pacific Pines - Gaven,Nerang
+1418,Worongary - Tallai,Nerang
+1419,Coomera,Ormeau - Oxenford
+1420,Helensvale,Ormeau - Oxenford
+1421,Hope Island,Ormeau - Oxenford
+1422,Jacobs Well - Alberton,Ormeau - Oxenford
+1423,Oxenford - Maudsland,Ormeau - Oxenford
+1424,Ormeau (East) - Stapylton,Ormeau - Oxenford
+1425,Ormeau (West) - Yatala,Ormeau - Oxenford
+1426,Pimpama - North,Ormeau - Oxenford
+1427,Pimpama - South,Ormeau - Oxenford
+1428,Upper Coomera (South) - Wongawallan,Ormeau - Oxenford
+1429,Upper Coomera - North,Ormeau - Oxenford
+1430,Willow Vale - Pimpama (West),Ormeau - Oxenford
+1431,Clear Island Waters,Robina
+1432,Merrimac,Robina
+1433,Varsity Lakes,Robina
+1434,Robina - East,Robina
+1435,Robina - West,Robina
+1436,Ashmore,Southport
+1437,Molendinar,Southport
+1438,Parkwood,Southport
+1439,Southport - North,Southport
+1440,Southport - South,Southport
+1441,Benowa,Surfers Paradise
+1442,Bundall,Surfers Paradise
+1443,Main Beach,Surfers Paradise
+1444,Surfers Paradise - North,Surfers Paradise
+1445,Surfers Paradise - South,Surfers Paradise
+1446,Darra - Sumner,Forest Lake - Oxley
+1447,Durack,Forest Lake - Oxley
+1448,Inala - Richlands,Forest Lake - Oxley
+1449,Oxley (Qld),Forest Lake - Oxley
+1450,Wacol,Forest Lake - Oxley
+1451,Doolandella,Forest Lake - Oxley
+1452,Forest Lake - Ellen Grove,Forest Lake - Oxley
+1453,Boonah,Ipswich Hinterland
+1454,Esk,Ipswich Hinterland
+1455,Lake Manchester - England Creek,Ipswich Hinterland
+1456,Lockyer Valley - East,Ipswich Hinterland
+1457,Lowood,Ipswich Hinterland
+1458,Rosewood,Ipswich Hinterland
+1459,Brassall,Ipswich Inner
+1460,Bundamba,Ipswich Inner
+1461,Churchill - Yamanto,Ipswich Inner
+1462,Ipswich - Central,Ipswich Inner
+1463,Ipswich - East,Ipswich Inner
+1464,Ipswich - North,Ipswich Inner
+1465,Karalee - Barellan Point,Ipswich Inner
+1466,Karana Downs,Ipswich Inner
+1467,Leichhardt - One Mile,Ipswich Inner
+1468,North Ipswich - Tivoli,Ipswich Inner
+1469,Raceview,Ipswich Inner
+1470,Ripley,Ipswich Inner
+1471,Riverview,Ipswich Inner
+1472,Camira - Gailes,Springfield - Redbank
+1473,Carole Park,Springfield - Redbank
+1474,Collingwood Park - Redbank,Springfield - Redbank
+1475,Goodna,Springfield - Redbank
+1476,New Chum,Springfield - Redbank
+1477,Redbank Plains,Springfield - Redbank
+1478,Springfield,Springfield - Redbank
+1479,Springfield Lakes,Springfield - Redbank
+1480,Augustine Heights - Brookwater,Springfield - Redbank
+1481,Bellbird Park,Springfield - Redbank
+1482,Beaudesert,Beaudesert
+1483,Beenleigh,Beenleigh
+1484,Eagleby,Beenleigh
+1485,Edens Landing - Holmview,Beenleigh
+1486,Mount Warren Park,Beenleigh
+1487,Wolffdene - Bahrs Scrub,Beenleigh
+1488,Boronia Heights - Park Ridge,Browns Plains
+1489,Browns Plains,Browns Plains
+1490,Chambers Flat - Logan Reserve,Browns Plains
+1491,Crestmead,Browns Plains
+1492,Greenbank Military Camp,Browns Plains
+1493,Hillcrest,Browns Plains
+1494,Marsden,Browns Plains
+1495,Munruben - Park Ridge South,Browns Plains
+1496,Regents Park - Heritage Park,Browns Plains
+1497,Logan Village,Jimboomba
+1498,Flagstone (East) - Riverbend,Jimboomba
+1499,Flagstone (West) - New Beith,Jimboomba
+1500,Greenbank - North Maclean,Jimboomba
+1501,Jimboomba - Glenlogan,Jimboomba
+1502,Yarrabilba,Jimboomba
+1503,Bethania - Waterford,Loganlea - Carbrook
+1504,Cornubia - Carbrook,Loganlea - Carbrook
+1505,Loganholme - Tanah Merah,Loganlea - Carbrook
+1506,Loganlea,Loganlea - Carbrook
+1507,Shailer Park,Loganlea - Carbrook
+1508,Waterford West,Loganlea - Carbrook
+1509,Daisy Hill,Springwood - Kingston
+1510,Kingston (Qld),Springwood - Kingston
+1511,Logan Central,Springwood - Kingston
+1512,Rochedale South - Priestdale,Springwood - Kingston
+1513,Slacks Creek,Springwood - Kingston
+1514,Springwood,Springwood - Kingston
+1515,Underwood,Springwood - Kingston
+1516,Woodridge,Springwood - Kingston
+1517,Bowen,Bowen Basin - North
+1518,Broadsound - Nebo,Bowen Basin - North
+1519,Clermont,Bowen Basin - North
+1520,Collinsville,Bowen Basin - North
+1521,Moranbah,Bowen Basin - North
+1522,Andergrove - Beaconsfield,Mackay
+1523,East Mackay,Mackay
+1524,Eimeo - Rural View,Mackay
+1525,Eungella Hinterland,Mackay
+1526,Mackay,Mackay
+1527,Mackay Harbour,Mackay
+1528,Mount Pleasant - Glenella,Mackay
+1529,North Mackay,Mackay
+1530,Ooralea - Bakers Creek,Mackay
+1531,Pioneer Valley,Mackay
+1532,Sarina,Mackay
+1533,Seaforth - Calen,Mackay
+1534,Shoal Point - Bucasia,Mackay
+1535,Slade Point,Mackay
+1536,South Mackay,Mackay
+1537,Walkerston - Eton,Mackay
+1538,West Mackay,Mackay
+1539,Airlie - Whitsundays,Whitsunday
+1540,Cape Conway,Whitsunday
+1541,Proserpine,Whitsunday
+1542,Beachmere - Sandstone Point,Bribie - Beachmere
+1543,Bribie Island,Bribie - Beachmere
+1544,Burpengary - East,Caboolture
+1545,Caboolture - South,Caboolture
+1546,Elimbah,Caboolture
+1547,Morayfield - East,Caboolture
+1548,Wamuran,Caboolture
+1549,Caboolture - East,Caboolture
+1550,Caboolture - West,Caboolture
+1551,Kilcoy,Caboolture Hinterland
+1552,Woodford - D'Aguilar,Caboolture Hinterland
+1553,Burpengary,Narangba - Burpengary
+1554,Deception Bay,Narangba - Burpengary
+1555,Morayfield,Narangba - Burpengary
+1556,Narangba,Narangba - Burpengary
+1557,Upper Caboolture,Narangba - Burpengary
+1558,Clontarf,Redcliffe
+1559,Margate - Woody Point,Redcliffe
+1560,Redcliffe,Redcliffe
+1561,Rothwell - Kippa-Ring,Redcliffe
+1562,Moreton Island,Redcliffe
+1563,Scarborough - Newport,Redcliffe
+1564,Albany Creek,The Hills District
+1565,Cashmere,The Hills District
+1566,Dayboro,The Hills District
+1567,Eatons Hill,The Hills District
+1568,The Hills District,The Hills District
+1569,Samford Valley,The Hills District
+1570,Murrumba Downs - Griffin,North Lakes
+1571,Dakabin,North Lakes
+1572,Kallangur,North Lakes
+1573,Mango Hill,North Lakes
+1574,North Lakes,North Lakes
+1575,Bray Park,Strathpine
+1576,Lawnton,Strathpine
+1577,Petrie,Strathpine
+1578,Strathpine - Brendale,Strathpine
+1579,Aurukun,Far North
+1580,Cape York,Far North
+1581,Croydon - Etheridge,Far North
+1582,Kowanyama - Pormpuraaw,Far North
+1583,Northern Peninsula,Far North
+1584,Tablelands,Far North
+1585,Torres,Far North
+1586,Torres Strait Islands,Far North
+1587,Weipa,Far North
+1588,Carpentaria,Outback - North
+1589,Mount Isa,Outback - North
+1590,Mount Isa Surrounds,Outback - North
+1591,Northern Highlands,Outback - North
+1592,Barcaldine - Blackall,Outback - South
+1593,Charleville,Outback - South
+1594,Far Central West,Outback - South
+1595,Far South West,Outback - South
+1596,Longreach,Outback - South
+1597,Buderim - North,Buderim
+1598,Buderim - South,Buderim
+1599,Mountain Creek,Buderim
+1600,Sippy Downs,Buderim
+1601,Aroona - Currimundi,Caloundra
+1602,Buddina - Minyama,Caloundra
+1603,Caloundra - Kings Beach,Caloundra
+1604,Golden Beach - Pelican Waters,Caloundra
+1605,Moffat Beach - Battery Hill,Caloundra
+1606,Parrearra - Warana,Caloundra
+1607,Wurtulla - Birtinya,Caloundra
+1608,Caloundra West - Baringa,Caloundra
+1609,Meridan Plains - Little Mountain (North),Caloundra
+1610,Coolum Beach,Maroochy
+1611,Marcoola - Mudjimba,Maroochy
+1612,Maroochydore - Kuluin,Maroochy
+1613,Mooloolaba - Alexandra Headland,Maroochy
+1614,Noosa Heads,Noosa
+1615,Noosaville,Noosa
+1616,Sunshine Beach,Noosa
+1617,Tewantin,Noosa
+1618,Peregian Beach - Marcus Beach,Noosa
+1619,Peregian Springs,Noosa
+1620,Beerwah,Sunshine Coast Hinterland
+1621,Caloundra Hinterland,Sunshine Coast Hinterland
+1622,Glass House Mountains,Sunshine Coast Hinterland
+1623,Landsborough,Sunshine Coast Hinterland
+1624,Maroochy Hinterland,Sunshine Coast Hinterland
+1625,Palmwoods,Sunshine Coast Hinterland
+1626,Bli Bli,Nambour
+1627,Diddillibah - Rosemount,Nambour
+1628,Eumundi - Yandina,Nambour
+1629,Nambour,Nambour
+1630,Noosa Hinterland,Noosa Hinterland
+1631,Cambooya - Wyreema,Toowoomba
+1632,Darling Heights,Toowoomba
+1633,Drayton - Harristown,Toowoomba
+1634,Gatton,Toowoomba
+1635,Gowrie (Qld),Toowoomba
+1636,Highfields,Toowoomba
+1637,Lockyer Valley - West,Toowoomba
+1638,Middle Ridge,Toowoomba
+1639,Newtown (Qld),Toowoomba
+1640,North Toowoomba - Harlaxton,Toowoomba
+1641,Rangeville,Toowoomba
+1642,Toowoomba - Central,Toowoomba
+1643,Toowoomba - East,Toowoomba
+1644,Toowoomba - West,Toowoomba
+1645,Wilsonton,Toowoomba
+1646,Ayr,Charters Towers - Ayr - Ingham
+1647,Burdekin,Charters Towers - Ayr - Ingham
+1648,Charters Towers,Charters Towers - Ayr - Ingham
+1649,Dalrymple,Charters Towers - Ayr - Ingham
+1650,Ingham,Charters Towers - Ayr - Ingham
+1651,Ingham Surrounds,Charters Towers - Ayr - Ingham
+1652,Palm Island,Charters Towers - Ayr - Ingham
+1653,Aitkenvale,Townsville
+1654,Annandale (Qld),Townsville
+1655,Belgian Gardens - Pallarenda,Townsville
+1656,Bohle Plains,Townsville
+1657,Condon - Rasmussen,Townsville
+1658,Cranbrook,Townsville
+1659,Douglas,Townsville
+1660,Garbutt - West End,Townsville
+1661,Gulliver - Currajong - Vincent,Townsville
+1662,Heatley,Townsville
+1663,Hermit Park - Rosslea,Townsville
+1664,Hyde Park - Pimlico,Townsville
+1665,Kelso,Townsville
+1666,Kirwan - East,Townsville
+1667,Kirwan - West,Townsville
+1668,Magnetic Island,Townsville
+1669,Mount Louisa,Townsville
+1670,Mundingburra,Townsville
+1671,Northern Beaches,Townsville
+1672,Oonoonba,Townsville
+1673,South Townsville - Railway Estate,Townsville
+1674,Townsville - South,Townsville
+1675,Townsville City - North Ward,Townsville
+1676,Wulguru - Roseneath,Townsville
+1677,Burdell - Mount Low,Townsville
+1678,Deeragun - Jensen,Townsville
+1679,Ashfield - Kepnock,Bundaberg
+1680,Bargara - Burnett Heads,Bundaberg
+1681,Branyan - Kensington,Bundaberg
+1682,Bundaberg,Bundaberg
+1683,Bundaberg East - Kalkie,Bundaberg
+1684,Bundaberg North - Gooburrum,Bundaberg
+1685,Bundaberg Surrounds - North,Bundaberg
+1686,Bundaberg Surrounds - South,Bundaberg
+1687,Millbank - Avoca,Bundaberg
+1688,Svensson Heights - Norville,Bundaberg
+1689,Walkervale - Avenell Heights,Bundaberg
+1690,Gayndah - Mundubbera,Burnett
+1691,Gin Gin,Burnett
+1692,Kingaroy,Burnett
+1693,Kingaroy Surrounds - North,Burnett
+1694,Kingaroy Surrounds - South,Burnett
+1695,Monto - Eidsvold,Burnett
+1696,Nanango,Burnett
+1697,North Burnett,Burnett
+1698,Cooloola,Gympie - Cooloola
+1699,Gympie - North,Gympie - Cooloola
+1700,Gympie - South,Gympie - Cooloola
+1701,Gympie Surrounds,Gympie - Cooloola
+1702,Kilkivan,Gympie - Cooloola
+1703,Booral - River Heads,Hervey Bay
+1704,Craignish - Dundowran Beach,Hervey Bay
+1705,Pialba - Eli Waters,Hervey Bay
+1706,Point Vernon,Hervey Bay
+1707,Torquay - Scarness - Kawungan,Hervey Bay
+1708,Urangan - Wondunna,Hervey Bay
+1709,Burrum - Fraser,Maryborough
+1710,Granville,Maryborough
+1711,Maryborough (Qld),Maryborough
+1712,Maryborough Surrounds - South,Maryborough
+1713,Tinana,Maryborough
+1714,Migratory - Offshore - Shipping (Qld),Migratory - Offshore - Shipping (Qld)
+1715,No usual address (Qld),No usual address (Qld)
+1716,Adelaide,Adelaide City
+1717,North Adelaide,Adelaide City
+1718,Adelaide Hills,Adelaide Hills
+1719,Aldgate - Stirling,Adelaide Hills
+1720,Hahndorf - Echunga,Adelaide Hills
+1721,Lobethal - Woodside,Adelaide Hills
+1722,Mount Barker,Adelaide Hills
+1723,Mount Barker Surrounds,Adelaide Hills
+1724,Nairne,Adelaide Hills
+1725,Uraidla - Summertown,Adelaide Hills
+1726,Burnside - Wattle Park,Burnside
+1727,Beaumont - Glen Osmond,Burnside
+1728,Toorak Gardens,Burnside
+1729,Athelstone,Campbelltown (SA)
+1730,Paradise - Newton,Campbelltown (SA)
+1731,Rostrevor - Magill,Campbelltown (SA)
+1732,Norwood (SA),Norwood - Payneham - St Peters
+1733,Payneham - Felixstow,Norwood - Payneham - St Peters
+1734,St Peters - Marden,Norwood - Payneham - St Peters
+1735,Nailsworth - Broadview,Prospect - Walkerville
+1736,Prospect,Prospect - Walkerville
+1737,Walkerville,Prospect - Walkerville
+1738,Goodwood - Millswood,Unley
+1739,Unley - Parkside,Unley
+1740,Gawler - North,Gawler - Two Wells
+1741,Gawler - South,Gawler - Two Wells
+1742,Lewiston - Two Wells,Gawler - Two Wells
+1743,Craigmore - Blakeview,Playford
+1744,Davoren Park,Playford
+1745,Elizabeth,Playford
+1746,Elizabeth East,Playford
+1747,Munno Para West - Angle Vale,Playford
+1748,One Tree Hill,Playford
+1749,Smithfield - Elizabeth North,Playford
+1750,Virginia - Waterloo Corner,Playford
+1751,Enfield - Blair Athol,Port Adelaide - East
+1752,Windsor Gardens,Port Adelaide - East
+1753,Northgate - Northfield,Port Adelaide - East
+1754,Valley View - Gilles Plains,Port Adelaide - East
+1755,Dry Creek - North,Salisbury
+1756,Ingle Farm,Salisbury
+1757,Para Hills,Salisbury
+1758,Parafield,Salisbury
+1759,Parafield Gardens,Salisbury
+1760,Paralowie,Salisbury
+1761,Salisbury,Salisbury
+1762,Salisbury East,Salisbury
+1763,Salisbury North,Salisbury
+1764,Mawson Lakes - Globe Derby Park,Salisbury
+1765,Pooraka - Cavan,Salisbury
+1766,Golden Grove,Tea Tree Gully
+1767,Greenwith,Tea Tree Gully
+1768,Highbury - Dernancourt,Tea Tree Gully
+1769,Hope Valley - Modbury,Tea Tree Gully
+1770,Modbury Heights,Tea Tree Gully
+1771,Redwood Park,Tea Tree Gully
+1772,St Agnes - Ridgehaven,Tea Tree Gully
+1773,Brighton (SA),Holdfast Bay
+1774,Glenelg (SA),Holdfast Bay
+1775,Edwardstown,Marion
+1776,Hallett Cove,Marion
+1777,Marino - Seaview Downs,Marion
+1778,Mitchell Park,Marion
+1779,Morphettville,Marion
+1780,Sheidow Park - Trott Park,Marion
+1781,Warradale,Marion
+1782,Belair,Mitcham
+1783,Bellevue Heights,Mitcham
+1784,Blackwood,Mitcham
+1785,Colonel Light Gardens,Mitcham
+1786,Mitcham (SA),Mitcham
+1787,Panorama,Mitcham
+1788,Aberfoyle Park,Onkaparinga
+1789,Aldinga,Onkaparinga
+1790,Christie Downs,Onkaparinga
+1791,Christies Beach,Onkaparinga
+1792,Clarendon,Onkaparinga
+1793,Coromandel Valley,Onkaparinga
+1794,Flagstaff Hill,Onkaparinga
+1795,Hackham - Onkaparinga Hills,Onkaparinga
+1796,Hackham West - Huntfield Heights,Onkaparinga
+1797,Happy Valley,Onkaparinga
+1798,Happy Valley Reservoir,Onkaparinga
+1799,Lonsdale,Onkaparinga
+1800,McLaren Vale,Onkaparinga
+1801,Morphett Vale - East,Onkaparinga
+1802,Morphett Vale - West,Onkaparinga
+1803,Reynella,Onkaparinga
+1804,Willunga,Onkaparinga
+1805,Woodcroft,Onkaparinga
+1806,Seaford - Seaford Meadows,Onkaparinga
+1807,Seaford Rise - Moana,Onkaparinga
+1808,Beverley,Charles Sturt
+1809,Flinders Park,Charles Sturt
+1810,Henley Beach,Charles Sturt
+1811,Hindmarsh - Brompton,Charles Sturt
+1812,Royal Park - Hendon - Albert Park,Charles Sturt
+1813,Seaton - Grange,Charles Sturt
+1814,West Lakes,Charles Sturt
+1815,Woodville - Cheltenham,Charles Sturt
+1816,Dry Creek - South,Port Adelaide - West
+1817,Largs Bay - Semaphore,Port Adelaide - West
+1818,North Haven,Port Adelaide - West
+1819,Port Adelaide,Port Adelaide - West
+1820,The Parks,Port Adelaide - West
+1821,Torrens Island,Port Adelaide - West
+1822,Adelaide Airport,West Torrens
+1823,Fulham,West Torrens
+1824,Lockleys,West Torrens
+1825,Plympton,West Torrens
+1826,Richmond (SA),West Torrens
+1827,West Beach,West Torrens
+1828,Barossa - Angaston,Barossa
+1829,Light,Barossa
+1830,Lyndoch,Barossa
+1831,Mallala,Barossa
+1832,Nuriootpa,Barossa
+1833,Tanunda,Barossa
+1834,Clare,Lower North
+1835,Gilbert Valley,Lower North
+1836,Goyder,Lower North
+1837,Wakefield - Barunga West,Lower North
+1838,Jamestown,Mid North
+1839,Peterborough - Mount Remarkable,Mid North
+1840,Port Pirie,Mid North
+1841,Port Pirie Surrounds,Mid North
+1842,Kadina,Yorke Peninsula
+1843,Moonta,Yorke Peninsula
+1844,Wallaroo,Yorke Peninsula
+1845,Yorke Peninsula - North,Yorke Peninsula
+1846,Yorke Peninsula - South,Yorke Peninsula
+1847,Ceduna,Eyre Peninsula and South West
+1848,Eyre Peninsula,Eyre Peninsula and South West
+1849,Kimba - Cleve - Franklin Harbour,Eyre Peninsula and South West
+1850,Le Hunte - Elliston,Eyre Peninsula and South West
+1851,Port Lincoln,Eyre Peninsula and South West
+1852,West Coast (SA),Eyre Peninsula and South West
+1853,Western,Eyre Peninsula and South West
+1854,Whyalla,Eyre Peninsula and South West
+1855,Whyalla - North,Eyre Peninsula and South West
+1856,APY Lands,Outback - North and East
+1857,Coober Pedy,Outback - North and East
+1858,Quorn - Lake Gilles,Outback - North and East
+1859,Outback,Outback - North and East
+1860,Port Augusta,Outback - North and East
+1861,Roxby Downs,Outback - North and East
+1862,Goolwa - Port Elliot,Fleurieu - Kangaroo Island
+1863,Kangaroo Island,Fleurieu - Kangaroo Island
+1864,Strathalbyn,Fleurieu - Kangaroo Island
+1865,Strathalbyn Surrounds,Fleurieu - Kangaroo Island
+1866,Victor Harbor,Fleurieu - Kangaroo Island
+1867,Yankalilla,Fleurieu - Kangaroo Island
+1868,Grant,Limestone Coast
+1869,Kingston - Robe,Limestone Coast
+1870,Millicent,Limestone Coast
+1871,Naracoorte,Limestone Coast
+1872,Naracoorte Surrounds,Limestone Coast
+1873,Penola,Limestone Coast
+1874,Tatiara,Limestone Coast
+1875,Wattle Range,Limestone Coast
+1876,Mount Gambier - East,Limestone Coast
+1877,Mount Gambier - West,Limestone Coast
+1878,Barmera,Murray and Mallee
+1879,Berri,Murray and Mallee
+1880,Karoonda - Lameroo,Murray and Mallee
+1881,Loxton,Murray and Mallee
+1882,Loxton Surrounds,Murray and Mallee
+1883,Mannum,Murray and Mallee
+1884,Murray Bridge,Murray and Mallee
+1885,Murray Bridge Surrounds,Murray and Mallee
+1886,Renmark,Murray and Mallee
+1887,Renmark Surrounds,Murray and Mallee
+1888,The Coorong,Murray and Mallee
+1889,Waikerie,Murray and Mallee
+1890,Migratory - Offshore - Shipping (SA),Migratory - Offshore - Shipping (SA)
+1891,No usual address (SA),No usual address (SA)
+1892,Augusta,Augusta - Margaret River - Busselton
+1893,Busselton Surrounds,Augusta - Margaret River - Busselton
+1894,Margaret River,Augusta - Margaret River - Busselton
+1895,Busselton - East,Augusta - Margaret River - Busselton
+1896,Busselton - West,Augusta - Margaret River - Busselton
+1897,Australind - Leschenault,Bunbury
+1898,Capel,Bunbury
+1899,College Grove - Carey Park,Bunbury
+1900,Collie,Bunbury
+1901,Dardanup,Bunbury
+1902,Davenport,Bunbury
+1903,Eaton - Pelican Point,Bunbury
+1904,Harvey,Bunbury
+1905,East Bunbury - Glen Iris,Bunbury
+1906,Waroona,Bunbury
+1907,Dalyellup,Bunbury
+1908,Gelorup - Stratham,Bunbury
+1909,South Bunbury - Bunbury,Bunbury
+1910,Withers - Usher,Bunbury
+1911,Bridgetown - Boyup Brook,Manjimup
+1912,Donnybrook - Balingup,Manjimup
+1913,Manjimup,Manjimup
+1914,Pemberton,Manjimup
+1915,Dawesville - Bouvard,Mandurah
+1916,Falcon - Wannanup,Mandurah
+1917,Greenfields,Mandurah
+1918,Halls Head - Erskine,Mandurah
+1919,Mandurah,Mandurah
+1920,Mandurah - East,Mandurah
+1921,Mandurah - North,Mandurah
+1922,Mandurah - South,Mandurah
+1923,Pinjarra,Mandurah
+1924,City Beach,Cottesloe - Claremont
+1925,Claremont (WA),Cottesloe - Claremont
+1926,Cottesloe,Cottesloe - Claremont
+1927,Floreat,Cottesloe - Claremont
+1928,Mosman Park - Peppermint Grove,Cottesloe - Claremont
+1929,Nedlands - Dalkeith - Crawley,Cottesloe - Claremont
+1930,Swanbourne - Mount Claremont,Cottesloe - Claremont
+1931,Kings Park (WA),Perth City
+1932,Mount Hawthorn - Leederville,Perth City
+1933,Mount Lawley - Inglewood,Perth City
+1934,North Perth,Perth City
+1935,Subiaco - Shenton Park,Perth City
+1936,Wembley - West Leederville - Glendalough,Perth City
+1937,East Perth,Perth City
+1938,Perth (North) - Highgate,Perth City
+1939,Perth (West) - Northbridge,Perth City
+1940,Bassendean - Eden Hill - Ashfield,Bayswater - Bassendean
+1941,Bayswater - Embleton - Bedford,Bayswater - Bassendean
+1942,Maylands,Bayswater - Bassendean
+1943,Morley,Bayswater - Bassendean
+1944,Noranda,Bayswater - Bassendean
+1945,Chidlow,Mundaring
+1946,Glen Forrest - Darlington,Mundaring
+1947,Helena Valley - Koongamia,Mundaring
+1948,Malmalling - Reservoir,Mundaring
+1949,Mundaring,Mundaring
+1950,Swan View - Greenmount - Midvale,Mundaring
+1951,Avon Valley National Park,Swan
+1952,Ballajura,Swan
+1953,Beechboro,Swan
+1954,Bullsbrook,Swan
+1955,Gidgegannup,Swan
+1956,Hazelmere - Guildford,Swan
+1957,Lockridge - Kiara,Swan
+1958,Malaga,Swan
+1959,Melaleuca - Lexia,Swan
+1960,Middle Swan - Herne Hill,Swan
+1961,Midland - Guildford,Swan
+1962,Stratton - Jane Brook,Swan
+1963,The Vines,Swan
+1964,Walyunga National Park,Swan
+1965,Aveley,Swan
+1966,Brabham - Henley Brook,Swan
+1967,Ellenbrook,Swan
+1968,Craigie - Beldon,Joondalup
+1969,Currambine - Kinross,Joondalup
+1970,Duncraig,Joondalup
+1971,Greenwood - Warwick,Joondalup
+1972,Heathridge - Connolly,Joondalup
+1973,Hillarys,Joondalup
+1974,Iluka - Burns Beach,Joondalup
+1975,Joondalup - Edgewater,Joondalup
+1976,Kingsley,Joondalup
+1977,Mullaloo - Kallaroo,Joondalup
+1978,Ocean Reef,Joondalup
+1979,Padbury,Joondalup
+1980,Sorrento - Marmion,Joondalup
+1981,Woodvale,Joondalup
+1982,Balcatta - Hamersley,Stirling
+1983,Balga - Mirrabooka,Stirling
+1984,Herdsman,Stirling
+1985,Innaloo - Doubleview,Stirling
+1986,Karrinyup - Gwelup - Carine,Stirling
+1987,Nollamara - Westminster,Stirling
+1988,Osborne Park Industrial,Stirling
+1989,Scarborough,Stirling
+1990,Stirling - Osborne Park,Stirling
+1991,Trigg - North Beach - Watermans Bay,Stirling
+1992,Tuart Hill - Joondanna,Stirling
+1993,Wembley Downs - Churchlands - Woodlands,Stirling
+1994,Yokine - Coolbinia - Menora,Stirling
+1995,Dianella - North,Stirling
+1996,Dianella - South,Stirling
+1997,Alexander Heights - Koondoola,Wanneroo
+1998,Butler - Merriwa - Ridgewood,Wanneroo
+1999,Carramar,Wanneroo
+2000,Clarkson,Wanneroo
+2001,Girrawheen,Wanneroo
+2002,Marangaroo,Wanneroo
+2003,Mindarie - Quinns Rocks - Jindalee,Wanneroo
+2004,Neerabup National Park,Wanneroo
+2005,Tapping - Ashby - Sinagra,Wanneroo
+2006,Alkimos - Eglinton,Wanneroo
+2007,Carabooda - Pinjar,Wanneroo
+2008,Two Rocks,Wanneroo
+2009,Yanchep,Wanneroo
+2010,Hocking - Pearsall,Wanneroo
+2011,Landsdale,Wanneroo
+2012,Madeley - Darch,Wanneroo
+2013,Wanneroo - Sinagra,Wanneroo
+2014,Armadale - Wungong - Brookdale,Armadale
+2015,Ashendon - Lesley,Armadale
+2016,Camillo - Champion Lakes,Armadale
+2017,Kelmscott,Armadale
+2018,Mount Nasura - Mount Richon - Bedfordale,Armadale
+2019,Roleystone,Armadale
+2020,Seville Grove,Armadale
+2021,Harrisdale,Armadale
+2022,Piara Waters - Forrestdale,Armadale
+2023,Belmont - Ascot - Redcliffe,Belmont - Victoria Park
+2024,East Victoria Park - Carlisle,Belmont - Victoria Park
+2025,Kewdale Commercial,Belmont - Victoria Park
+2026,Perth Airport,Belmont - Victoria Park
+2027,Victoria Park - Lathlain - Burswood,Belmont - Victoria Park
+2028,Cloverdale,Belmont - Victoria Park
+2029,Kewdale,Belmont - Victoria Park
+2030,Rivervale,Belmont - Victoria Park
+2031,Bentley - Wilson - St James,Canning
+2032,Canning Vale - West,Canning
+2033,Canning Vale Commercial,Canning
+2034,Cannington - Queens Park,Canning
+2035,Parkwood - Ferndale - Lynwood,Canning
+2036,Riverton - Shelley - Rossmoyne,Canning
+2037,Welshpool,Canning
+2038,Willetton,Canning
+2039,Beckenham - Kenwick - Langford,Gosnells
+2040,Canning Vale - East,Gosnells
+2041,Gosnells,Gosnells
+2042,Huntingdale - Southern River,Gosnells
+2043,Maddington - Orange Grove - Martin,Gosnells
+2044,Thornlie,Gosnells
+2045,Forrestfield - Wattle Grove,Kalamunda
+2046,High Wycombe,Kalamunda
+2047,Kalamunda - Maida Vale - Gooseberry Hill,Kalamunda
+2048,Lesmurdie - Bickley - Carmel,Kalamunda
+2049,Byford,Serpentine - Jarrahdale
+2050,Mundijong,Serpentine - Jarrahdale
+2051,Serpentine - Jarrahdale,Serpentine - Jarrahdale
+2052,Como,South Perth
+2053,Manning - Waterford,South Perth
+2054,South Perth - Kensington,South Perth
+2055,Banjup,Cockburn
+2056,Bibra Industrial,Cockburn
+2057,Bibra Lake,Cockburn
+2058,Coogee,Cockburn
+2059,Coolbellup,Cockburn
+2060,Hamilton Hill,Cockburn
+2061,Henderson,Cockburn
+2062,North Coogee,Cockburn
+2063,South Lake - Cockburn Central,Cockburn
+2064,Spearwood,Cockburn
+2065,Success - Hammond Park,Cockburn
+2066,Yangebup,Cockburn
+2067,Beeliar - Wattleup,Cockburn
+2068,Jandakot,Cockburn
+2069,East Fremantle,Fremantle
+2070,Fremantle,Fremantle
+2071,Fremantle - South,Fremantle
+2072,O'Connor (WA),Fremantle
+2073,Wellard (West) - Bertram,Kwinana
+2074,Calista,Kwinana
+2075,Hope Valley - Postans,Kwinana
+2076,Kwinana Industrial,Kwinana
+2077,Parmelia - Orelia,Kwinana
+2078,Casuarina - Wandi,Kwinana
+2079,Applecross - Ardross,Melville
+2080,Bateman,Melville
+2081,Bicton - Palmyra,Melville
+2082,Booragoon,Melville
+2083,Bull Creek,Melville
+2084,Leeming,Melville
+2085,Melville,Melville
+2086,Murdoch - Kardinya,Melville
+2087,Willagee,Melville
+2088,Winthrop,Melville
+2089,Cooloongup,Rockingham
+2090,Port Kennedy,Rockingham
+2091,Rockingham,Rockingham
+2092,Rockingham Lakes,Rockingham
+2093,Safety Bay - Shoalwater,Rockingham
+2094,Singleton - Golden Bay - Secret Harbour,Rockingham
+2095,Waikiki,Rockingham
+2096,Warnbro,Rockingham
+2097,Baldivis - North,Rockingham
+2098,Baldivis - South,Rockingham
+2099,Karnup,Rockingham
+2100,Albany,Albany
+2101,Albany Surrounds,Albany
+2102,Bayonet Head - Lower King,Albany
+2103,Denmark,Albany
+2104,Gnowangerup,Albany
+2105,Katanning,Albany
+2106,Kojonup,Albany
+2107,Little Grove - Elleker,Albany
+2108,McKail - Willyung,Albany
+2109,Plantagenet,Albany
+2110,Stirling Range National Park,Albany
+2111,Chittering,Wheat Belt - North
+2112,Cunderdin,Wheat Belt - North
+2113,Dowerin,Wheat Belt - North
+2114,Gingin - Dandaragan,Wheat Belt - North
+2115,Merredin,Wheat Belt - North
+2116,Moora,Wheat Belt - North
+2117,Mukinbudin,Wheat Belt - North
+2118,Northam,Wheat Belt - North
+2119,Toodyay,Wheat Belt - North
+2120,York - Beverley,Wheat Belt - North
+2121,Brookton,Wheat Belt - South
+2122,Kulin,Wheat Belt - South
+2123,Murray,Wheat Belt - South
+2124,Narrogin,Wheat Belt - South
+2125,Wagin,Wheat Belt - South
+2126,Broome,Kimberley
+2127,Derby - West Kimberley,Kimberley
+2128,Halls Creek,Kimberley
+2129,Kununurra,Kimberley
+2130,Roebuck,Kimberley
+2131,East Pilbara,East Pilbara
+2132,Newman,East Pilbara
+2133,Port Hedland,East Pilbara
+2134,South Hedland,East Pilbara
+2135,Ashburton (WA),West Pilbara
+2136,Karratha,West Pilbara
+2137,Roebourne,West Pilbara
+2138,Esperance,Esperance
+2139,Esperance Surrounds,Esperance
+2140,Carnarvon,Gascoyne
+2141,Exmouth,Gascoyne
+2142,Boulder,Goldfields
+2143,Kalgoorlie,Goldfields
+2144,Kalgoorlie - North,Goldfields
+2145,Kalgoorlie Airport,Goldfields
+2146,Kambalda - Coolgardie - Norseman,Goldfields
+2147,Leinster - Leonora,Goldfields
+2148,Trafalgar (WA),Goldfields
+2149,Geraldton,Mid West
+2150,Geraldton - East,Mid West
+2151,Geraldton - North,Mid West
+2152,Geraldton - South,Mid West
+2153,Irwin,Mid West
+2154,Meekatharra,Mid West
+2155,Morawa,Mid West
+2156,Northampton - Mullewa - Greenough,Mid West
+2157,Migratory - Offshore - Shipping (WA),Migratory - Offshore - Shipping (WA)
+2158,No usual address (WA),No usual address (WA)
+2159,Bridgewater - Gagebrook,Brighton
+2160,Brighton - Pontville,Brighton
+2161,Old Beach - Otago,Brighton
+2162,Bellerive - Rosny,Hobart - North East
+2163,Cambridge,Hobart - North East
+2164,Geilston Bay - Risdon,Hobart - North East
+2165,Howrah - Tranmere,Hobart - North East
+2166,Lindisfarne - Rose Bay,Hobart - North East
+2167,Mornington - Warrane,Hobart - North East
+2168,Risdon Vale,Hobart - North East
+2169,Rokeby,Hobart - North East
+2170,South Arm,Hobart - North East
+2171,Austins Ferry - Granton,Hobart - North West
+2172,Berriedale - Chigwell,Hobart - North West
+2173,Claremont (Tas.),Hobart - North West
+2174,Derwent Park - Lutana,Hobart - North West
+2175,Glenorchy,Hobart - North West
+2176,Montrose - Rosetta,Hobart - North West
+2177,Moonah,Hobart - North West
+2178,New Norfolk,Hobart - North West
+2179,West Moonah,Hobart - North West
+2180,Kingston - Huntingfield,Hobart - South and West
+2181,Kingston Beach - Blackmans Bay,Hobart - South and West
+2182,Margate - Snug,Hobart - South and West
+2183,Mount Wellington,Hobart - South and West
+2184,Taroona - Bonnet Hill,Hobart - South and West
+2185,Hobart,Hobart Inner
+2186,Lenah Valley - Mount Stuart,Hobart Inner
+2187,Mount Nelson - Dynnyrne,Hobart Inner
+2188,New Town,Hobart Inner
+2189,Sandy Bay,Hobart Inner
+2190,South Hobart - Fern Tree,Hobart Inner
+2191,West Hobart,Hobart Inner
+2192,Dodges Ferry - Lewisham,Sorell - Dodges Ferry
+2193,Sorell - Richmond,Sorell - Dodges Ferry
+2194,Invermay,Launceston
+2195,Kings Meadows - Punchbowl,Launceston
+2196,Launceston,Launceston
+2197,Legana,Launceston
+2198,Mowbray,Launceston
+2199,Newnham - Mayfield,Launceston
+2200,Newstead,Launceston
+2201,Norwood (Tas.),Launceston
+2202,Prospect Vale - Blackstone,Launceston
+2203,Ravenswood,Launceston
+2204,Riverside,Launceston
+2205,South Launceston,Launceston
+2206,Summerhill - Prospect,Launceston
+2207,Trevallyn,Launceston
+2208,Waverley - St Leonards,Launceston
+2209,West Launceston,Launceston
+2210,Youngtown - Relbia,Launceston
+2211,Beauty Point - Beaconsfield,Meander Valley - West Tamar
+2212,Deloraine,Meander Valley - West Tamar
+2213,Grindelwald - Lanena,Meander Valley - West Tamar
+2214,Hadspen - Carrick,Meander Valley - West Tamar
+2215,Westbury,Meander Valley - West Tamar
+2216,Dilston - Lilydale,North East
+2217,George Town,North East
+2218,Longford,North East
+2219,Northern Midlands,North East
+2220,Perth - Evandale,North East
+2221,St Helens - Scamander,North East
+2222,Flinders and Cape Barren Islands,North East
+2223,Scottsdale - Bridport,North East
+2224,Central Highlands,Central Highlands (Tas.)
+2225,Derwent Valley,Central Highlands (Tas.)
+2226,Southern Midlands,Central Highlands (Tas.)
+2227,Wilderness - East,Central Highlands (Tas.)
+2228,Bruny Island - Kettering,Huon - Bruny Island
+2229,Cygnet,Huon - Bruny Island
+2230,Geeveston - Dover,Huon - Bruny Island
+2231,Huonville - Franklin,Huon - Bruny Island
+2232,Forestier - Tasman,South East Coast
+2233,Triabunna - Bicheno,South East Coast
+2234,Acton - Upper Burnie,Burnie - Ulverstone
+2235,Burnie - Ulverstone Surrounds,Burnie - Ulverstone
+2236,Burnie - Wivenhoe,Burnie - Ulverstone
+2237,Parklands - Camdale,Burnie - Ulverstone
+2238,Penguin - Sulphur Creek,Burnie - Ulverstone
+2239,Romaine - Havenview,Burnie - Ulverstone
+2240,Somerset,Burnie - Ulverstone
+2241,Ulverstone,Burnie - Ulverstone
+2242,West Ulverstone,Burnie - Ulverstone
+2243,Wynyard,Burnie - Ulverstone
+2244,Devonport,Devonport
+2245,East Devonport,Devonport
+2246,Latrobe,Devonport
+2247,Miandetta - Don,Devonport
+2248,Port Sorell,Devonport
+2249,Quoiba - Spreyton,Devonport
+2250,Sheffield - Railton,Devonport
+2251,Turners Beach - Forth,Devonport
+2252,King Island,West Coast
+2253,North West,West Coast
+2254,Smithton,West Coast
+2255,Waratah,West Coast
+2256,West Coast (Tas.),West Coast
+2257,Wilderness - West,West Coast
+2258,Migratory - Offshore - Shipping (Tas.),Migratory - Offshore - Shipping (Tas.)
+2259,No usual address (Tas.),No usual address (Tas.)
+2260,Darwin Airport,Darwin City
+2261,Darwin City,Darwin City
+2262,East Point,Darwin City
+2263,Fannie Bay - The Gardens,Darwin City
+2264,Larrakeyah,Darwin City
+2265,Ludmilla - The Narrows,Darwin City
+2266,Parap,Darwin City
+2267,Stuart Park,Darwin City
+2268,Woolner - Bayview - Winnellie,Darwin City
+2269,Alawa,Darwin Suburbs
+2270,Anula,Darwin Suburbs
+2271,Berrimah,Darwin Suburbs
+2272,Brinkin - Nakara,Darwin Suburbs
+2273,Buffalo Creek,Darwin Suburbs
+2274,Charles Darwin,Darwin Suburbs
+2275,Coconut Grove,Darwin Suburbs
+2276,East Arm,Darwin Suburbs
+2277,Jingili,Darwin Suburbs
+2278,Karama,Darwin Suburbs
+2279,Leanyer,Darwin Suburbs
+2280,Lyons (NT),Darwin Suburbs
+2281,Malak - Marrara,Darwin Suburbs
+2282,Millner,Darwin Suburbs
+2283,Moil,Darwin Suburbs
+2284,Nightcliff,Darwin Suburbs
+2285,Rapid Creek,Darwin Suburbs
+2286,Tiwi,Darwin Suburbs
+2287,Wagaman,Darwin Suburbs
+2288,Wanguri,Darwin Suburbs
+2289,Wulagi,Darwin Suburbs
+2290,Howard Springs,Litchfield
+2291,Humpty Doo,Litchfield
+2292,Koolpinyah,Litchfield
+2293,Virginia,Litchfield
+2294,Weddell,Litchfield
+2295,Bakewell,Palmerston
+2296,Driver,Palmerston
+2297,Durack - Marlow Lagoon,Palmerston
+2298,Gray,Palmerston
+2299,Moulden,Palmerston
+2300,Palmerston - North,Palmerston
+2301,Palmerston - South,Palmerston
+2302,Rosebery - Bellamack,Palmerston
+2303,Woodroffe,Palmerston
+2304,Charles,Alice Springs
+2305,East Side,Alice Springs
+2306,Flynn (NT),Alice Springs
+2307,Larapinta,Alice Springs
+2308,Mount Johns,Alice Springs
+2309,Petermann - Simpson,Alice Springs
+2310,Ross,Alice Springs
+2311,Sandover - Plenty,Alice Springs
+2312,Tanami,Alice Springs
+2313,Yuendumu - Anmatjere,Alice Springs
+2314,Barkly,Barkly
+2315,Tennant Creek,Barkly
+2316,Alligator,Daly - Tiwi - West Arnhem
+2317,Daly,Daly - Tiwi - West Arnhem
+2318,Thamarrurr,Daly - Tiwi - West Arnhem
+2319,Tiwi Islands,Daly - Tiwi - West Arnhem
+2320,West Arnhem,Daly - Tiwi - West Arnhem
+2321,Anindilyakwa,East Arnhem
+2322,East Arnhem,East Arnhem
+2323,Nhulunbuy,East Arnhem
+2324,Elsey,Katherine
+2325,Gulf,Katherine
+2326,Katherine,Katherine
+2327,Victoria River,Katherine
+2328,Migratory - Offshore - Shipping (NT),Migratory - Offshore - Shipping (NT)
+2329,No usual address (NT),No usual address (NT)
+2330,Aranda,Belconnen
+2331,Belconnen,Belconnen
+2332,Bruce,Belconnen
+2333,Charnwood,Belconnen
+2334,Cook,Belconnen
+2335,Dunlop,Belconnen
+2336,Evatt,Belconnen
+2337,Florey,Belconnen
+2338,Flynn (ACT),Belconnen
+2339,Fraser,Belconnen
+2340,Giralang,Belconnen
+2341,Gooromon,Belconnen
+2342,Hawker,Belconnen
+2343,Higgins,Belconnen
+2344,Holt,Belconnen
+2345,Kaleen,Belconnen
+2346,Latham,Belconnen
+2347,Lawson,Belconnen
+2348,Macgregor (ACT),Belconnen
+2349,Macquarie,Belconnen
+2350,McKellar,Belconnen
+2351,Melba,Belconnen
+2352,Page,Belconnen
+2353,Scullin,Belconnen
+2354,Spence,Belconnen
+2355,Weetangera,Belconnen
+2356,Molonglo Corridor,Belconnen
+2357,Macnamara,Belconnen
+2358,Strathnairn,Belconnen
+2359,West Belconnen,Belconnen
+2360,Hume,Canberra East
+2361,Kowen,Canberra East
+2362,Canberra East,Canberra East
+2363,Canberra Airport,Canberra East
+2364,Majura,Canberra East
+2365,Amaroo,Gungahlin
+2366,Bonner,Gungahlin
+2367,Casey,Gungahlin
+2368,Crace,Gungahlin
+2369,Forde,Gungahlin
+2370,Franklin,Gungahlin
+2371,Gungahlin,Gungahlin
+2372,Hall,Gungahlin
+2373,Harrison,Gungahlin
+2374,Mitchell,Gungahlin
+2375,Ngunnawal,Gungahlin
+2376,Nicholls,Gungahlin
+2377,Palmerston,Gungahlin
+2378,Gungahlin - East,Gungahlin
+2379,Gungahlin - West,Gungahlin
+2380,Jacka,Gungahlin
+2381,Kenny,Gungahlin
+2382,Moncrieff,Gungahlin
+2383,Taylor,Gungahlin
+2384,Throsby,Gungahlin
+2385,Acton,North Canberra
+2386,Ainslie,North Canberra
+2387,Braddon,North Canberra
+2388,Civic,North Canberra
+2389,Dickson,North Canberra
+2390,Downer,North Canberra
+2391,Hackett,North Canberra
+2392,Lyneham,North Canberra
+2393,O'Connor (ACT),North Canberra
+2394,Turner,North Canberra
+2395,Watson,North Canberra
+2396,Black Mountain,North Canberra
+2397,Campbell,North Canberra
+2398,Duntroon,North Canberra
+2399,Parkes (ACT) - North,North Canberra
+2400,Reid,North Canberra
+2401,Russell,North Canberra
+2402,Deakin,South Canberra
+2403,Forrest,South Canberra
+2404,Griffith (ACT),South Canberra
+2405,Lake Burley Griffin,South Canberra
+2406,Narrabundah,South Canberra
+2407,Parkes (ACT) - South,South Canberra
+2408,Red Hill (ACT),South Canberra
+2409,Yarralumla,South Canberra
+2410,Barton,South Canberra
+2411,Fyshwick,South Canberra
+2412,Kingston (ACT),South Canberra
+2413,Banks,Tuggeranong
+2414,Bonython,Tuggeranong
+2415,Calwell,Tuggeranong
+2416,Chisholm,Tuggeranong
+2417,Conder,Tuggeranong
+2418,Fadden,Tuggeranong
+2419,Gilmore,Tuggeranong
+2420,Gordon (ACT),Tuggeranong
+2421,Gowrie (ACT),Tuggeranong
+2422,Greenway,Tuggeranong
+2423,Isabella Plains,Tuggeranong
+2424,Kambah,Tuggeranong
+2425,Macarthur,Tuggeranong
+2426,Monash,Tuggeranong
+2427,Mount Taylor,Tuggeranong
+2428,Oxley (ACT),Tuggeranong
+2429,Richardson,Tuggeranong
+2430,Theodore,Tuggeranong
+2431,Tuggeranong,Tuggeranong
+2432,Wanniassa,Tuggeranong
+2433,Tuggeranong - West,Tuggeranong
+2434,Chapman,Weston Creek
+2435,Duffy,Weston Creek
+2436,Fisher,Weston Creek
+2437,Holder,Weston Creek
+2438,Rivett,Weston Creek
+2439,Stirling,Weston Creek
+2440,Waramanga,Weston Creek
+2441,Weston,Weston Creek
+2442,Scrivener,Weston Creek
+2443,Chifley,Woden Valley
+2444,Curtin,Woden Valley
+2445,Farrer,Woden Valley
+2446,Garran,Woden Valley
+2447,Hughes,Woden Valley
+2448,Isaacs,Woden Valley
+2449,Lyons (ACT),Woden Valley
+2450,Mawson,Woden Valley
+2451,O'Malley,Woden Valley
+2452,Pearce,Woden Valley
+2453,Phillip,Woden Valley
+2454,Torrens,Woden Valley
+2455,Arboretum,Molonglo
+2456,Coombs,Molonglo
+2457,Denman Prospect,Molonglo
+2458,Molonglo,Molonglo
+2459,Wright,Molonglo
+2460,Molonglo - East,Molonglo
+2461,Whitlam,Molonglo
+2462,ACT - South West,Uriarra - Namadgi
+2463,Namadgi,Uriarra - Namadgi
+2464,Migratory - Offshore - Shipping (ACT),Migratory - Offshore - Shipping (ACT)
+2465,No usual address (ACT),No usual address (ACT)
+2466,Christmas Island,Christmas Island
+2467,Cocos (Keeling) Islands,Cocos (Keeling) Islands
+2468,Jervis Bay,Jervis Bay
+2469,Norfolk Island,Norfolk Island
+2470,Migratory - Offshore - Shipping (OT),Migratory - Offshore - Shipping (OT)
+2471,No usual address (OT),No usual address (OT)
+2472,Outside Australia,Outside Australia
